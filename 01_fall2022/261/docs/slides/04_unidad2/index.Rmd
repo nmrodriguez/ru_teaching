@@ -1,0 +1,786 @@
+---
+title: "Unidad 2"
+subtitle: "Transmitiendo pensamientos"
+author: "Dr. Nicole Rodríguez"
+institute: "Rutgers University"
+date: "2022/9/12 (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    css: [rutgers, rutgers-fonts]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: 16:9
+      link-citations: yes
+---
+class: center, inverse, middle
+
+# Palabras, sílabas y acento
+
+---
+class: center, middle
+
+# ¿Qué hiciste el fin de semana pasado? 
+
+# ¿Qué es una palabra?
+
+---
+# Fragmento de palenquero
+
+- En el siguiento video, tenemos un fragmento breve de una persona hablando palenquero
+
+---
+class: middle, center
+![map](libs/img/map_pal.png)
+
+---
+# Fragmento de palenquero
+
+- El palenquero es un **criollo** hablado en San Basilio de Palenque (Bolívar, Colombia)
+
+- Fundado por esclavos fugitivos en el siglo 16
+
+
+---
+class: middle, center
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ru9p3Qkdw2Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+---
+# Otro ejemplo, Quechua
+
+- Familia de lenguas, hablada por más de 10 millones de personas en 5 países, sobretodo en los Andes
+
+- En este fragmento de Quechua, presten atención a dónde empiezan y dónde terminan las “palabras”
+---
+class: middle, center
+
+![mapque](libs/img/map_quechua.png)
+
+---
+class: middle, center
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ood0gazw-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+---
+# Divisiones de los sonidos
+
+- ¿Es fácil dividir una secuencia de sonidos en palabras?
+
+- ¿Qué criterios usamos para dividir las secuencias en partes más pequeñas?
+
+---
+# ¿Cuántas palabras hay?
+
+- Voy a la playa
+
+- Voy al mar
+
+- Quiero regalarle un libro
+
+- Le quiero regalar un libro
+
+---
+# Ejercicio 
+
+- En grupos de dos/tres, haced lo siguiente:
+
+  - Uno de vosotros, pronuncie la secuencia siguiente primero despacio y después rápido, y el otro anota las diferencias que oye en la pronunciación: 
+  
+    - Los cambios que oyen
+    
+    - Dónde empiezan y dónde terminan las unidades
+    
+  - **Una amiga alemana anunció su visita**
+  
+---
+# Ejercicio 
+
+- Cambio de papeles:
+
+  - Uno de vosotros, pronuncie la secuencia siguiente primero despacio y después rápido, y el otro anota las diferencias que oye en la pronunciación: 
+  
+    - Los cambios que oyen
+    
+    - Dónde empiezan y dónde terminan las unidades
+    
+  - **Los ancianos salen a andar a la alameda**
+  
+---
+class: center, middle
+
+# Encadenamiento
+
+---
+# Encadenamiento 
+
+- no se enseña en las clases de español, pero es común en el habla
+
+- regla: si una palabra **termina** en consonante y hay dos vocales al lado, separamos los sonidos de la siguiente manera:
+
+
+![enca](libs/img/encadenamiento.png)
+
+---
+# Pensamos
+
+- u**n** amigo
+
+--
+
+- u-na-migo
+
+--
+
+- e**l** amigo
+
+--
+
+- e-la-migo
+
+--
+
+- tu**s** amigos
+
+--
+
+- tu-sa-migos
+---
+# Practicamos 
+
+.pull-left[
+
+- Los Ángeles
+
+- dos amigos
+
+- mi mejor amiga
+
+- Eres un gran amigo
+
+- ¿Vas a ir?
+]
+
+.pull-right[
+- Es una lástima
+
+- ¿Piensa así?
+
+- Hablemos español
+
+- Mis amigos están aquí
+
+- Son unos estudiantes atrevidos
+]
+
+
+---
+# Palabras
+
+¿Conclusiones?
+
+--
+
+- No es lo mismo una palabra **escrita** que una palabra **oral**
+
+- Para la palabra escrita, podemos usar el criterio del "espacio en blanco"
+
+- Para la palabra oral, depende de la velocidad, de la forma de las palabras (si terminan en vocales o no, etc.)
+
+---
+class: center, middle
+
+# **Conclusión**: la idea de "palabra" parece muy intuitiva, pero solo porque sabemos leer y escribir
+---
+# Palabras 
+
+- En resumen, una palabra es un conjunto de sílabas con acento prosódico
+
+- El acento prosódico es la prominencia o duración relativamente mayora de una sílaba respecto a otras 
+
+  - canto (**can**to)
+  
+  - cantó (can**to**)
+  
+---
+# Sílabas 
+
+- La idea de sílaba es más fácil de definir
+
+- La manera más simple de saber si algo es una sílaba o no consiste en pronunciar la palabra en voz alta y aplaudir al mismo tiempo:
+
+  - Una amiga alemana anunció su visita
+  
+  - Los ancianos salen a andar a la alameda
+  
+---
+# Silabifación 
+
+- ¿Cambian las sílabas según la velocidad de la pronunciación?
+
+  - Una amiga alemana anunció su visita
+  
+  - Los ancianos salen a andar a la alameda
+  
+---
+# Sílabas
+
+- Las sílabas son unidades más pequeñas que las palabras
+
+- Tienen una vocal como mínimo -> núcleo de la sílaba (la parte central)
+
+Ejemplos: 
+
+- La
+
+- a 
+
+- El
+
+---
+# Sílabas
+
+- A veces el núcleo silábico no es una vocal:
+
+- Station		([stej-ʃn]
+
+- Trčati	‘correr’	(tr-ca-ti) 		(Serbocroata)
+
+---
+# Sílabas
+
+- Puede haber otros segmentos antes y después del núcleo:
+
+![sil1](libs/img/sil1.png)
+
+---
+class: middle, center
+![sil2](libs/img/sil2.png)
+
+---
+class: middle, center
+![sil3](libs/img/sil3.png)
+---
+# Sílabas
+
+- ¿Qué sílabas son posibles en español y en inglés?
+
+---
+# Núcleos de sílabas 
+
+- Si tenemos dos vocales seguidas, ¿cómo sabemos cuál es el núcleo?
+
+  - mia, dialisis, puedo, miedo, mi hermano
+  
+- Si una vocal tiene más "peso" al pronunciarla, es el núcleo de la sílaba
+
+  - máximo un solo acento prosódico por sílaba
+  
+---
+# Núcleos de sílabas 
+
+- ¿Qué pasa si tenemos dos vocales con acento? ¿Ejemplos?
+
+- ¿Cuáles son las posibles combinaciones de vocales en una sílaba en español?
+
+---
+class: middle, center
+![sil4](libs/img/sil4.png)
+
+---
+class: middle, center
+![sil5](libs/img/sil5.png)
+
+---
+# Ataques y codas
+
+- Pensemos ejemplos de sílabas con distintos ataques y distintas codas
+
+  - ¿Cuál es el número máximo de sonidos en un ataque?
+
+  - ¿Cuál es el número máximo de sonidos en una coda?
+  
+---
+class: middle, center
+![sil6](libs/img/sil6.png)
+
+---
+# La escala de sonoridad
+
+- Algunos sonidos son más sonoros que otros
+
+.pull-left[
+**+ sonoros**
+
+- vocales (a, e, i, o, u)
+]
+
+.pull-right[
+**-sonoros**
+
+- consonantes oclusivas (p, t, k, b, d, g)
+]
+
+---
+class: middle, center
+# La sonoridad aumento hacia el centro de la sílaba y disminuye hacia los extremos
+
+![sil7](libs/img/sil7.png)
+
+---
+# Resumen
+
+- La sílaba está formada por un **núcleo** (generalmente vocálico) obligatorio
+
+- El núcleo más peso prosódico
+
+- El núcleo tiene más sonoridad que las otras partes de la sílaba
+
+- Puede haber ataque (antes del núcleo) o coda (después del núcleo)
+
+---
+class: middle, center
+
+# El acento prosódico
+
+---
+# El acento prosódico
+
+- ¿Qué distingue a los siguientes pares de palabras?
+
+- Canto ~ cantó
+
+- Hablas ~ hablás
+
+- Pelo ~ peló
+---
+# El acento prosódico
+
+- El acento es una percepción que tiene tres posibles propiedades acústicas:
+
+- **Intensidad**: el sonido tiene más energía
+
+- **Duración**: el sonido dura más
+
+- **Tono**: el tono del sonido es más elevado
+
+---
+class: center, middle, 
+
+# ¿Qué es una palabra?
+
+---
+class: middle, center, inverse
+
+# Consonantes y vocales. El alfabeto fonético internacional 
+
+---
+class: center, middle
+
+# ¿Preguntas? 
+
+el aparato fonador y las clases básicas de sonidos, la representación de los sonidos, el alfabeto fonético internacional
+
+---
+class: center, middle, inverse
+
+# Vocales
+
+---
+# Pregunta del día/warm-up
+
+- ¿Prefieres perros o gatos? (¿u otro animal?)
+
+- ¿Cómo se definen las vocales?
+
+---
+# Práctica
+
+- Reescriba cada palabra, señalando la division silábica e identificando la sílaba tónica. 
+
+Ejemplo: Florida: flo-’ri-da
+
+
+.pull-left[
+- Arizona
+
+- Argentina
+
+- Nevada
+
+- Colorado
+]
+
+.pull-right[
+- Madrid
+
+- Mallorca
+
+- Barcelona
+
+- California
+]
+
+---
+# Lecturas en grupos
+
+- Cada grupo va a formarse experto en una lectura 
+
+
+---
+# El aparato fonador
+
+.pull-left[
+- ¿Cómo producimos sonidos?
+
+- ¿Cómo producimos vocales y consonantes? 
+]
+
+.pull-right[
+![aparato](libs/img/aparato.png)
+
+]
+
+
+---
+# Práctica 
+
+Para sentir la diferencia entre fonos sonoros y sordos, toque ligeramente la nuez de Adán mientras pronuncial los sonidos continuous siguentes: 
+
+- ssssssssssssssssssssssssssssssssssssssssssss
+
+- zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+
+- th- th- th- th- th- th- th- th- th- th- th- th- th (como think)
+
+- th- th- th- th- th- th- th- th- th- th- th- th- th (como that)
+
+- zzzzzzzssssssszzzzzzzssssssszzzzzzzsssssss
+
+---
+# Práctica 
+
+- Si las cuerdas vocálicas vibran es sonoro, si no, es sordo
+
+- Si aire sale de la boca durante pronunciación es “oral” si sale por la náriz es nasal
+
+- Clasifica estas palabras: la sonoridad y nasalidad de la CONSONANTE inicial de las siguentes palabras 
+
+
+.pull-left[
+- Vino [  son]  [   nas]
+
+- lado [  son]  [   nas]
+
+- pata [  son]  [   nas]
+
+- Gato [  son]  [   nas]
+]
+
+.pull-right[
+- nada [  son]  [   nas]
+
+- mama [  son]  [   nas]
+
+- Dama [  son]  [   nas]
+
+- bata [  son]  [   nas]
+
+- tonto [  son]  [   nas]
+]
+
+---
+class: center, middle
+# Cómo se producen las vocales
+
+![vocales](libs/img/vocales.png)
+---
+class: center, middle
+# Los rasgos fonéticos de las vocales
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Qd2hYaWjJY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+class: center, middle
+# Posición de la lengua para la vocal [i]
+
+![i](libs/img/i.png)
+
+---
+class: center, middle
+# Los rasgos fonéticos de las vocales
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IRNuUdcd7Pc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+class: center, middle
+# Posición de la lengua para la vocal [o]
+
+![o](libs/img/o.png)
+
+---
+class: center, middle
+# Los rasgos fonéticos de las vocales
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLWSdY25KJo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+class: center, middle
+# Posición de la lengua para la vocal [a]
+
+![a](libs/img/a.png)
+
+---
+class: center, middle
+¿Cómo describimos la posición de la lengua según los dos ejes en cada vocal?
+
+![aio](libs/img/aio.png)
+
+---
+class: center, middle
+Posición de la lengua
+
+![aio](libs/img/aio_pos.png)
+
+---
+class: center, middle
+
+# El “trapecito” vocálico
+
+![trap](libs/img/trap.png)
+
+---
+class: center, middle
+
+# Los rasgos articulatorios
+
+![rasgos](libs/img/rasgos.png)
+
+---
+class: center, middle
+
+# Los rasgos articulatorios
+
+![rasgos1](libs/img/rasgos1.png)
+
+---
+class: center, middle
+# Otras vocales
+
+![vocales2](libs/img/vocales2.png)
+
+---
+class: center, middle
+
+# Los rasgos articulatorios
+
+![rasgos1](libs/img/rasgos1.png)
+
+---
+class: center, middle
+
+# Los rasgos articulatorios
+
+![rasgos2](libs/img/rasgos2.png)
+
+---
+class: center, middle
+
+![trap2](libs/img/trap2.png)
+
+---
+class: center, middle
+![trap3](libs/img/trap3.png)
+---
+# Práctica 
+
+- Clasifica los sonidos: 
+
+- Horizontal opciones: anterior, central, posterior
+
+- Vertical opciones: altas cerradas, medias, cerradas, medias abiertas, o bajas abiertas
+
+![table1](libs/img/table1.png)
+
+---
+# Las semivocales 
+
+- A veces un nucleo puede tener dos vocales que forma un diptongo
+
+  - De una perspectiva de pronunciación un diptongo tiene rasgos de dos vocales - se desliza hacia otro 
+
+  - Reino – diptongo = [ei] – los rasgos articulatorios del diptongo son una mezcla de los de [e] y [i]
+
+---
+class: center, middle
+
+![triangle](libs/img/triangle.png)
+
+---
+# En resumen
+
+- Las vocales se pueden caracterizar por propiedades 
+
+1 – La posición de la lengua en el eje vertical (altas/cerradas, medias cerradas, medias abiertas, bajas/abiertas)
+
+2 – La posición de la lengua en el eje horizontal (anteriores, medias o posteriores)
+
+3 –  Forma de los labios (redondas, alargadas) 
+
+---
+# Los rasgos acústicos y articulatorios
+
+La clasificación de las vocales según la posición de la lengua (el **punto de articulación**) se corresponde con la clasificación de las vocales según sus **propiedades acústicas**
+
+---
+# Rasgos articulatorios 
+
+Cerrado/alto, cerrado-medio, abierto-medio y abierto/bajo
+
+Anterior, central, posterior
+
+---
+class: center, middle
+
+# Otros rasgos articulatorios importantes
+
+![rounding](libs/img/rounding.png)
+
+---
+# Otros rasgos importante
+
+- Redondeado o alargado: se refiere a la posición de los labios
+
+- Redondeado: [o], [u]
+
+- Alargado: [i], [e], [a]
+
+---
+# Práctica: 
+
+- Clasifica los sonidos: 
+
+- Horizontal opciones: anterior, central, posterior
+
+- Vertical opciones: altas cerradas, medias, cerradas, medias abiertas, o bajas abiertas
+
+![table3](libs/img/table3.png)
+---
+# Otros rasgos articulatorios importantes
+
+¿Qué diferencia a los siguientes sonidos en inglés?
+
+feet | fit
+
+boot | book
+
+--
+
+tenso | laxo 
+
+- Las vocales tensas tienden a ser más largas que las vocales laxas.
+
+- El español solo tiene vocales tensas
+
+---
+# La representación de los sonidos 
+
+- El sistema alfabético se basa en una correspondencia entre un símbolo escrito (una letra) y un sonido
+
+   - En español la correspondencia es bastante transparente 
+   
+- Para representar los sonidos individuales de una lengua necesitamos un tipo de sistema alfabético pero un poco distinto 
+
+- El alfabeto fonético internacional 
+
+   - Cada sonido corresponde a un símbolo y cada símbolo refleja un sonido 
+   
+   - Existen suficientes símbolos para representar los sonidos observados en todas las lenguas 
+
+   - http://www.internationalphoneticalphabet.org/ipa-charts/ipa-symbols-chart-complete/ 
+
+---
+# Práctica 
+
+Transcribe fonéticamente: 
+
+Poco | Todo | Vaca | Hago | Caro | Rabo
+
+---
+# Para salir:
+
+Dibuja el trapecito vocálico
+
+---
+class: center, middle, inverse
+
+
+# Repaso fonética articulatoria: las consonantes
+
+---
+class: center, middle
+
+# ¿Preguntas?
+
+el punto de articulación, el modo de articulación
+
+---
+class: center, middle
+
+![table2](libs/img/table2.png)
+
+---
+class: center, middle, inverse
+
+# Práctica
+
+---
+# Pregunta del día/warm-up
+
+¿Haces deporte normalmente? ¿Eres una persona deportista?
+
+¿Cómo se diferencian sonidos sordos y sonoros?
+
+---
+class: center, middle
+![practice1](libs/img/practice1.png)
+
+---
+class: center, middle
+![practice2](libs/img/practice2.png)
+
+---
+class: center, middle
+![practice3](libs/img/practice3.png)
+
+---
+class: center, middle
+![practice4](libs/img/practice4.png)
+
+---
+# La transcripción de canciones populares
+
+- Todos los grupos van a tener una canción
+
+- Hay hacer una transcripción de la canción hasta (y incluyendo) el estribillo
+
+- Subir una foto de la transcripción a: 
+
+https://padlet.com/nmrodriguez1994/p990r67elj8x1hau
+
+---
+class: center, middle
+background-image: url("libs/img/qrcode.png")
+background-size: contain
+
+---
+class: center, middle
+# Práctica para la prueba
+
+---
+# Para salir:
+
+Escribe tu nombre y apellido en formato IPA
