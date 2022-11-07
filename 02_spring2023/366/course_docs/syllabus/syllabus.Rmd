@@ -1,0 +1,75 @@
+---
+title:
+author: ""
+date: ""
+fontsize: 11pt
+geometry: left=1in,right=1in,top=0.5in,bottom=1in
+output: pdf_document
+header-includes:
+    - \usepackage{fancyhdr}
+    - \usepackage{varwidth}
+---
+
+\pagestyle{fancyplain}
+\lhead{}
+\chead{\includegraphics[width=.3\textwidth]{RUheader.png}}
+\rhead{}
+\lfoot{}
+\cfoot{\thepage}
+\rfoot{}
+\fancyheadoffset{0.5in}
+\renewcommand{\headrulewidth}{0pt}
+
+\phantom{.}
+
+\vspace{.5in}
+
+# 940:366 Methods of Teaching Spanish K-12
+## Spring 2023
+## Dr. Nicole Rodríguez
+
+| Course Prereqs: | 940:261 |
+| :-------------- | :------ |
+| Meeting times:  | Wednesdays, time, location |
+| Office Hours:   | Time, Location |
+| email:          | nicole.rodriguez@rutgers.edu | 
+
+
+**Course description:**
+This course, taught fully in Spanish, introduces students to a variety of second language teaching methodologies and their evolution as a result of world events and their impact on research in the field of second language acquisition. 
+Emphasis is placed on the understanding and implementation of communicative methods of language teaching, the design and development of content-related thematic units based on the New Jersey standards for world language teaching, the ACTFL guidelines, and Standards for the 21st century. 
+The use of technology and integrated performance assessment will be included in the course.
+
+
+**Learning Goals:**
+In accordance with our Department Learning Goals, http://span-port.rutgers.edu/learning-goals, students in this course will improve their interpretive, interpersonal and presentational skills. 
+They will be exposed to a large quantity of historical and practical information from a variety of textual and online sources that will be introduced by the instructor, as well as by the students themselves, and presented for discussion in pairs or small groups. 
+The vocabulary of educational research and design will be introduced and used in context in addition to high frequency vocabulary on every topic customarily found in the instruction of novice and intermediate level learners. 
+Students will be expected to design and demonstrate their potential for implementing a standards-based thematic unit on a topic of their choice for a target audience at the novice-mid proficiency level.
+
+**Aviso**:
+As per SAS policy, a student cannot earn credit for language courses taken 
+below their foreign language placement. 
+Please verify that you are enrolled in 
+a course that corresponds to your placement level, even if Webreg allow you to 
+register for the course. 
+Please go to the SAS website to learn of SAS academic policy on foreign languages. 
+You may also visit the Department of Spanish and Portuguese. 
+Placement exam results can be found in Degree Navigator under your course 
+list. 
+Results will be at the bottom of page. 
+If you have questions about your 
+placement, contact Prof. Dámaris Otero-Torres, Undergraduate Director, via 
+e-mail at dotero@spanport.rutgers.edu during the first two weeks of classes 
+(before the end of the add/drop period). 
+It is your responsibility to be enrolled in the language course that corresponds to your placement.
+
+http://sasundergrad.rutgers.edu/academics/courses/registration-and-course-policies/foreign-language-courses
+http://span-port.rutgers.edu/undergraduate
+
+**Method of Evaluation:**
+Consistent, active participation of each student is expected, as it is integral to the learning process and constitutes a significant part of the final grade. 
+In addition to a presentations and the final thematic unit described above, each student will be expected to demonstrate their ability to design and implement individual activities that appeal to the multiple intelligences of their target audience and could be used in teaching their students to develop their interpretive, interpersonal and presentational communication skills.
+
+
+**Requirements and Course components:**
