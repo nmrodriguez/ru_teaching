@@ -47,13 +47,22 @@ class: center, middle
 
 
 ---
+class: center
 
-insert video here
+# Video 1
 
+<video width="500" height="500">
+<source src="libs/media/infantil1.mp4" type="video/mp4">
+</video>
 
 ---
+class: center
 
-insert video here
+# Video 2
+
+<video width="500" height="500">
+<source src="libs/media/infantil2.mp4" type="video/mp4">
+</video>
 
 
 ---
@@ -569,7 +578,11 @@ class: center, middle
 ---
 # El modo bilingüe
 
-- info here
+![mode](libs/img/mode.png)
+
+---
+background-image: url("libs/img/tweet3.png")
+background-size: contain
 
 ---
 class: center, middle
@@ -582,8 +595,8 @@ class: center, middle
 # "El bilingüismo, pese a ser un fenómeno muy complejo, es generalmente beneficioso para los individuos y para la sociedad, aunque no siempre sea percibido y apreciado de esta forma"
 
 ---
-
-insert image
+background-image: url("libs/img/tweet2.jpg")
+background-size: contain
 
 ---
 class: center, middle
@@ -592,8 +605,8 @@ class: center, middle
 # "El bilingüismo es también un fenómeno político y social que depende de la coexistencia y el uso de dos lenguas en la misma comunidad. Mientras que en algunos contextos políticos el bilingüismo tiene connotaciones muy positivas y es un símbolo de estatus internacional, en otros contextos ser bilingüe tiene connotaciones muy negativas y es producto de estigmatización social."
 
 ---
-
-insert image here
+background-image: url("libs/img/tweet1.jpg")
+background-size: contain
 
 ---
 class: center, middle
@@ -601,5 +614,10 @@ class: center, middle
 # ¿De dónde surgen las connotaciones negativas del bilingüismo?
 
 ---
+class: center, middle
 
-End of class 
+# Fin
+
+---
+background-image: url("libs/img/end.png")
+background-size: contain

@@ -4,7 +4,7 @@
     <title>Unidad 5</title>
     <meta charset="utf-8" />
     <meta name="author" content="Dr. Nicole Rodríguez" />
-    <script src="libs/header-attrs-2.11/header-attrs.js"></script>
+    <script src="libs/header-attrs-2.18/header-attrs.js"></script>
     <link href="libs/remark-css-0.0.1/rutgers.css" rel="stylesheet" />
     <link href="libs/remark-css-0.0.1/rutgers-fonts.css" rel="stylesheet" />
   </head>
@@ -12,11 +12,21 @@
     <textarea id="source">
 class: center, middle, inverse, title-slide
 
+.title[
 # Unidad 5
+]
+.subtitle[
 ## Adquisición
+]
+.author[
 ### Dr. Nicole Rodríguez
+]
+.institute[
 ### Rutgers University
-### 2022/11/6 (updated: 2022-11-08)
+]
+.date[
+### 2022/11/6 (updated: 2022-11-21)
+]
 
 ---
 
@@ -52,13 +62,22 @@ class: center, middle
 
 
 ---
+class: center
 
-insert video here
+# Video 1
 
+&lt;video width="500" height="500"&gt;
+&lt;source src="libs/media/infantil1.mp4" type="video/mp4"&gt;
+&lt;/video&gt;
 
 ---
+class: center
 
-insert video here
+# Video 2
+
+&lt;video width="500" height="500"&gt;
+&lt;source src="libs/media/infantil2.mp4" type="video/mp4"&gt;
+&lt;/video&gt;
 
 
 ---
@@ -524,7 +543,7 @@ Solo es bilingüe una persona que...
 
 9. usa una lengua pero tiene conocimiento de otras dos lenguas
 
-10 entiende y habla una lengua pero comprende una lengua segunda
+10. entiende y habla una lengua pero comprende una lengua segunda
 
 ---
 # Ahora consideramos quién es monolingue
@@ -574,7 +593,11 @@ class: center, middle
 ---
 # El modo bilingüe
 
-- info here
+![mode](libs/img/mode.png)
+
+---
+background-image: url("libs/img/tweet3.png")
+background-size: contain
 
 ---
 class: center, middle
@@ -587,8 +610,8 @@ class: center, middle
 # "El bilingüismo, pese a ser un fenómeno muy complejo, es generalmente beneficioso para los individuos y para la sociedad, aunque no siempre sea percibido y apreciado de esta forma"
 
 ---
-
-insert image
+background-image: url("libs/img/tweet2.jpg")
+background-size: contain
 
 ---
 class: center, middle
@@ -597,17 +620,22 @@ class: center, middle
 # "El bilingüismo es también un fenómeno político y social que depende de la coexistencia y el uso de dos lenguas en la misma comunidad. Mientras que en algunos contextos políticos el bilingüismo tiene connotaciones muy positivas y es un símbolo de estatus internacional, en otros contextos ser bilingüe tiene connotaciones muy negativas y es producto de estigmatización social."
 
 ---
-
-insert image here
+background-image: url("libs/img/tweet1.jpg")
+background-size: contain
 
 ---
 class: center, middle
 
 # ¿De dónde surgen las connotaciones negativas del bilingüismo?
 
---
+---
+class: center, middle
 
-End of class 
+# Fin
+
+---
+background-image: url("libs/img/end.png")
+background-size: contain
     </textarea>
 <style data-target="print-only">@media screen {.remark-slide-container{display:block;}.remark-slide-scaler{box-shadow:none;}}</style>
 <script src="https://remarkjs.com/downloads/remark-latest.min.js"></script>
@@ -657,6 +685,19 @@ if (window.HTMLWidgets) slideshow.on('afterShowSlide', function (slide) {
     deleted = true;
   });
 })();
+// add `data-at-shortcutkeys` attribute to <body> to resolve conflicts with JAWS
+// screen reader (see PR #262)
+(function(d) {
+  let res = {};
+  d.querySelectorAll('.remark-help-content table tr').forEach(tr => {
+    const t = tr.querySelector('td:nth-child(2)').innerText;
+    tr.querySelectorAll('td:first-child .key').forEach(key => {
+      const k = key.innerText;
+      if (/^[a-z]$/.test(k)) res[k] = t;  // must be a single letter (key)
+    });
+  });
+  d.body.setAttribute('data-at-shortcutkeys', JSON.stringify(res));
+})(document);
 (function() {
   "use strict"
   // Replace <script> tags in slides area to make them executable
