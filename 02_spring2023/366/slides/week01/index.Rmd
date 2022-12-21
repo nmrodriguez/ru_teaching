@@ -1,0 +1,419 @@
+---
+title: "Semana 1"
+subtitle: "Intro al curso"
+author: "Dr. Nicole Rodríguez"
+institute: "Rutgers University"
+date: "2022/12/8 (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    css: [rutgers, rutgers-fonts]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: 16:9
+      link-citations: yes
+---
+class: center, middle, inverse
+
+# ¿Qué queremos aprender?
+
+# ¿Qué es la enseñanza?
+
+---
+
+# ¿Quiénes somos nosotros?
+
+--
+
+- Nombre
+
+- Major/minor
+
+- Promoción
+
+- Profe favorito y por que
+
+---
+class: center, middle, inverse
+
+# Syllabus y Canvas
+
+---
+
+pic of canvas here
+
+---
+# Información básica
+
+Course Prereqs: 940:261
+
+Meeting times: Martes, 3:50-6:50, AB5190
+
+Office Hours: Time, Location
+
+email: nicole.rodriguez@rutgers.edu
+
+
+--
+
+### Materials
+
+- Canvas
+
+- NO hay que comprar nada
+
+---
+# Descripción del curso
+
+This course, taught fully in Spanish, introduces students to a variety of second language teaching methodologies and their evolution as a result of world events and their impact on research in the field of second language acquisition. 
+Emphasis is placed on the understanding and implementation of communicative methods of language teaching, the design and development of content-related thematic units based on the New Jersey standards for world language teaching, the ACTFL guidelines, and Standards for the 21st century. 
+The use of technology and integrated performance assessment will be included in the course.
+
+---
+# Learning Goals
+
+In accordance with our Department Learning Goals, http://span-port.rutgers.edu/learning-goals, students in this course will improve their interpretive, interpersonal and presentational skills. 
+They will be exposed to a large quantity of historical and practical information from a variety of textual and online sources that will be introduced by the instructor, as well as by the students themselves, and presented for discussion in pairs or small groups. 
+The vocabulary of educational research and design will be introduced and used in context in addition to high frequency vocabulary on every topic customarily found in the instruction of novice and intermediate level learners. 
+Students will be expected to design and demonstrate their potential for implementing a standards-based thematic unit on a topic of their choice for a target audience at the novice-mid proficiency level.
+
+---
+
+# Aviso
+
+As per SAS policy, a student cannot earn credit for language courses taken 
+below their foreign language placement. 
+Please verify that you are enrolled in 
+a course that corresponds to your placement level, even if Webreg allow you to 
+register for the course. 
+Please go to the SAS website to learn of SAS academic policy on foreign languages. 
+You may also visit the Department of Spanish and Portuguese. 
+Placement exam results can be found in Degree Navigator under your course 
+list. 
+Results will be at the bottom of page. 
+If you have questions about your 
+placement, contact Prof. Dámaris Otero-Torres, Undergraduate Director, via 
+e-mail at dotero@spanport.rutgers.edu during the first two weeks of classes 
+(before the end of the add/drop period). 
+It is your responsibility to be enrolled in the language course that corresponds to your placement.
+
+http://sasundergrad.rutgers.edu/academics/courses/registration-and-course-policies/foreign-language-courses
+http://span-port.rutgers.edu/undergraduate
+
+---
+# Fechas importantes
+
+La asignatura comienza el 17 de enero y termina el día 1 de mayo. El útlimo día para dejar la clase es el día 26 de enero.
+
+---
+
+# Method of Evaluation:
+
+Consistent, active participation of each student is expected, as it is integral to the learning process and constitutes a significant part of the final grade. 
+In addition to a presentations and the final thematic unit described above, each student will be expected to demonstrate their ability to design and implement individual activities that appeal to the multiple intelligences of their target audience and could be used in teaching their students to develop their interpretive, interpersonal and presentational communication skills.
+
+---
+
+# Calificaciones:
+
+| Componente: | Porcentaje: |
+| :---------- | :---------- |
+| Preparación y participación  | 15% |
+| "Teacher Diary" | 20% |
+| Reseña de un libro de texto  | 15% | 
+| Perfil de aprendizaje | 20% |
+| Teaching Portfolio | 30% |
+
+--
+
+#### Distribución de notas
+
+| Nota | Porcentaje |
+| :--- | :--------- |
+| A    | 92-100     |
+| B+   | 87-91      |
+| B    | 82-86      | 
+| C+   | 77-81      |
+| C    | 70-76      |
+| D    | 65-69      |
+| F    | 0-64       |
+
+---
+
+# Preparación y participación
+
+Además de la participación oral (individual y en grupo), parte del trabajo de clase consistirá en ejercicios de práctica escritos. Algunos serán individuales y otros se realizarán en grupos. Todo esto será parte de la nota de Preparación, participación y actitud. Todos los alumnos deben estar preparados y saber bien los temas a tratar en cada clase, ya que la nota de participación dependerá de ello.
+
+---
+
+# "Teacher Diary"
+
+Throughout the semester, students will keep a journal of their experiences and observations in all of their classes. They will take note of what their professors are doing, what teaching strategies work well, what don't work well, and how they would go about teaching the lesson differently. There will be specific questions posted on Canvas related to the week's discussions that the students will reflect on. 
+
+---
+
+# Reseña de un libro de texto
+
+Students will be assigned a textbook to review. They will evaluate it on a set of criteria/rubric provided to them. They will write a reflection on what they think would work from the content in a langauge classroom and what would need to be improved on. 
+
+---
+
+# Perfil de aprendizaje
+
+After learning about differing populations of students, students will be asked to make a language learning profile to address their language history, idealogies, and needs. Separate instructions will be given during class time. 
+
+---
+
+# Teaching Portfolio
+
+The teaching portfolio is a combination of everything we have completed throughout the semester. It is your chance to hand in all assignments and include the feedback that I have given you throughout the semester. It consists of the following:
+ 
+  - Perfil de aprendizaje*
+  
+  - Teaching philosophy
+  
+  - Teacher diary*
+  
+  - Reseña de un libro de texto*
+  
+  - Partner lesson/unit plan*
+  
+The assignments with * have all been completed previously or in class, the only new component to this is the teaching philosophy.
+
+---
+
+# Reglas departmentales y políticas del curso 
+
+### Asistencia a clase 
+
+Puesto que la mayoría de los ejercicios de transcripción y de producción/práctica oral se harán EN CLASE, es esencial para obtener una buena nota en el curso que el estudiante asista regularmente a clase y que participe activamente en la misma, ya sea de forma presencial o en línea. Los conceptos y conocimientos impartidos no se prestan a ser adquiridos meramente através de la lectura (independientemente del número de horas que se le dediquen). El repaso y la práctica constantes y regulares son absolutamente necesarios. Cuando un estudiante falta a clase, no puede realizar la práctica requerida para la adquisición de la fonología de la lengua y por lo tanto no obtendrá una buena nota. Dicho eso, el alumno puede faltar a clase hasta 2 veces sin la necesidad de justificar la ausencia, pero no recibirá puntos de participación durante los días faltados. Las ausencias se considerarán justificadas sólo en caso de emergencia por causas de salud o de familia o por razones religiosas. [!OJO! Si faltas a una prueba, debes presentar documentación que demuestre que tal ausencia fue debida a enfermedad u otro tipo de emergencia seria. En caso contrario, la nota correspondiente a tal prueba será un cero.] Los estudiantes pueden autoreportar las ausencias aquí: https://sims.rutgers.edu/ssra/.
+
+---
+
+# Integridad académica
+
+Cada estudiante de Rutgers debe mantener principios de integridad académica. De acuerdo con el manual de estudiantes de la universidad, una conducta éticamente adecuada incluye no hacer trampa, copiar, plagiar ni impedir el acceso de materiales e información a otros. Un estudiante que ayude a otro a realizar estas acciones también estará en falta. De los actos mencionados, uno de los más graves es el plagio, que nuestra universidad define de la siguiente manera:
+
+*Plagiarism* is the use of another person’s words, ideas, or results without giving that person appropriate credit. To avoid plagiarism, every direct quotation must be identified by quotation marks or appropriate indentation and both direct quotation and paraphrasing must be cited properly according to the accepted format for the particular discipline or as required by the instructor in a course. Some common examples of plagiarism are:
+
+• Copying word for word (i.e. quoting directly) from an oral, printed, or electronic source without proper attribution. • Paraphrasing
+without proper attribution, i.e., presenting in one’s own words another person’s written words or ideas as if they were one’s own. •
+Submitting a purchased or downloaded term paper or other materials to satisfy a course requirement.
+
+• Incorporating into one’s work graphs, drawings, photographs, diagrams, tables, spreadsheets, computer programs, or other nontextual material from other sources without proper attribution.
+
+Rutgers University Academic Integrity Policy, p. 2: https://policies.rutgers.edu/10213-currentpdf
+
+---
+
+Para más información, visiten http://nbacademicintegrity.rutgers.edu. Para ver formas en que podemos evitar el plagio, visiten http://www.libraries.rutgers.edu/avoid_plagiarism. Cuando sea necesario utilizar fuentes para una tarea, cada estudiante podrá utilizar el sistema propio de su disciplina para citar textos. En caso de duda, es posible utilizar el estándar de la Modern Language Association, el más común para estudiantes de idiomas, descrito con detalle en la MLA Formatting and Style Guide de Purdue University: https://owl.english.purdue.edu/owl/section/2/11/.
+
+
+El Departamento de Español y Portugués conoce la existencia de sistemas de traducción automática online: su uso no está permitido, pues va en contra de la política de integridad académica. Si hay signos claros acerca del uso de traducción automática en una tarea, podrá investigarse el caso.
+
+---
+
+# Etiqueta digital o “Netiquette”
+
+Como regla general, sea muy cuidadoso a la hora de comunicarse con el profesor y sus compañeros por escrito. Se espera que sea absolutamente respetuoso tanto en privado como público. Cuando envíe un correo electrónico considere lo siguiente:
+
+• Use su dirección de correo de la universidad
+
+• Incluya información del curso en “Asunto”
+
+• Nunca use expresiones informales y diríjase formalmente
+
+• Sea claro, preciso y conciso
+
+• Dé las gracias
+
+• Use su nombre completo e identifique el curso en el que está matriculado.
+
+---
+
+Ejemplo de un mensaje apropiado:
+
+De: astudent@yourinstitution.edu
+
+Fecha: October 24, 2016 11:45:48 AM EST-04:00
+
+A: nieri@rci.rutgers.edu
+
+Asunto: clarificación presentación oral - Español 202 sección 2
+
+Estimado Prof. Rodríguez,
+
+Me llamo Estudiante Confundido y estoy en su curso de español 202 sección 2. Estoy leyendo las instrucciones para la presentación oral y no entendí uno de los requisitos. ¿Qué quiere decir con “grabar y entregar”? Muchas gracias por su tiempo.
+
+Atentamente, 
+
+Estudiante Confundido Span 202:02 Fall 16
+
+---
+# Comunicación electrónica
+
+Los estudiantes deben esperar una respuesta del profesor en un período de 24 horas (lunes-jueves). Estudiantes que envíen mensajes durante el fin de semana (viernes-domingo), deberán esperar una respuesta del profesor el lunes de la semana siguiente después de clase.
+
+Note: If you send me an email with your favorite meme you automatically get an A for participation this week and next.
+
+---
+
+# Estudiantes con dificultades de aprendizaje
+
+Rutgers University welcomes students with disabilities into all of the University’s educational programs. In order to receive consideration for reasonable accommodations, a student with a disability must contact the appropriate disability services office at the campus where you are officially enrolled, participate in an intake interview, and provide documentation: https: //ods.rutgers.edu/.
+
+If the documentation supports your request for reasonable accommodations, your campus’s disability services office will provide you with a Letter of Accommodations. Please share this letter with your instructors and discuss the accommodations with them as early in your courses as possible. To begin this process, please complete the Registration form on the ODS web site at: https://ods.rutgers.edu/students/registration-form.
+
+---
+
+# Temario
+
+Nota: el siguiente temario es provisional. El objetivo es proporcionar una visión de conjunto de los temas a tratar y de las fechas aproximadas. A medida que avancemos en el curso, iremos proporcionando detalles y fechas más exactas más adecuadas al ritmo de la clase.
+
+---
+# Temario
+
+| Semana | Fecha | Tema |
+| :----- | :---- |:---- |
+| 1      | 1/17  | Intro al curso. ¿Qué queremos aprender? ¿Qué es la enseñanza? |
+| 2      | 1/24  | NJ/ACTFL Standards & Una breve historia de la enseñanza de lenguas |
+| 3      | 1/31  | La metodología |
+| 4      | 2/7   | La planificación |
+| 5      | 2/14  | Competencia cultural | 
+| 6      | 2/21  | Language ideologies & Community engagement |
+| 7      | 2/28  | Different populations of learners & SLA theories |
+| 8      | 3/7   | Heritage Speakers & theoretical frameworks |
+| 9      | 3/14  | ¡Spring break! |
+| 10     | 3/21  | Literacy Development |
+| 11     | 3/28  | Assessment, Evaluation and Writing |
+| 12     | 4/4   | Feedback and error correction |
+| 13     | 4/11  | Textbook and culturally authentic materials |
+| 14     | 4/18  | Teaching Philosophy, technology, the future |
+| 15     | 4/25  | ¿Qué hemos aprendido? ¿Qué es la enseñanza? |
+
+---
+class: center, middle, inverse 
+
+# Snow policy
+
+---
+class: center, middle, inverse
+
+# El camino hacía una certificado de enseñanza
+
+---
+# Opción #1 
+
+- SpanPort MAT Program
+
+- https://span-port.rutgers.edu/mat
+
+- https://span-port.rutgers.edu/faqmat
+
+- https://span-port.rutgers.edu/mat/125-mat
+
+---
+# Opción #2 
+
+- Graduate School of Education 
+
+- 5-year teacher ed program 
+
+- Apply JUNIOR YEAR
+
+- https://live-ru-gse-wp.pantheonsite.io/degree/ed-m-in-language-education/
+
+---
+class: center, middle, inverse 
+
+# Caminar y pensar
+
+---
+# Caminar y pensar
+
+- ¿Qué queremos aprender?
+
+- ¿Qué es la enseñanza?
+
+- ¿En quién piensas cuando escuchas la palabra "maestra/o/e"?
+
+---
+class: center, middle, inverse
+
+# Descanso 
+
+---
+
+# ¿Qué es la enseñanza?
+
+- Actividades
+
+- Metas
+
+- ¿Cómo mejor aprendemos? 
+
+Padlet
+
+---
+
+video here
+
+---
+class: center, middle 
+
+# Mejor y peor experiencia con un/a/e profe
+ 
+ 
+### Pensar - emparejar - compartir 
+
+
+---
+
+Word cloud - adjectives to describe good teachers 
+
+---
+
+video here 
+
+---
+class: center, middle, inverse
+
+# Ahora, la pregunta importante: ¿Qué tal la enseñanza de idiomas?
+
+---
+
+# ¿Cómo podemos ayudar a nuestros estudiantes aprender un nuevo idioma en el aula?
+
+--
+
+1. ¿Qué significa la proficiencia?
+
+2. ¿How does one become proficient in a language?
+
+3. What characterizes a classroom environment in which opportunities to become proficient are maximized?
+
+---
+# Defining language proficiency
+
+- What does it mean to know a language
+
+
+---
+# Language 
+
+pg. 4 - 8 in douglass brown book
+---
+# Components of language competence 
+
+- pic in book
+
+---
+
+"Second language learning is described as a complex, long-term effort that requires much of the learner. In small groups of three to five, share your own experiences in learning or attempting to learn, a foreign language. Describe your own (a) commitment, (b) involvement, and (c) effort to learn."
+
+---
+# Reflexión para esta semana
+
+- 

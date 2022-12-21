@@ -1,0 +1,273 @@
+---
+title: "Semana 2"
+subtitle: "NJ/ACTFL Standards | Una breve historia de la enseñanza de lenguas"
+author: "Dr. Nicole Rodríguez"
+institute: "Rutgers University"
+date: "2022/12/8 (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    css: [rutgers, rutgers-fonts]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: 16:9
+      link-citations: yes
+---
+class: center, middle, inverse
+
+# Parte 1: Una breve historia
+
+--
+
+### La educacción bilingüe en los EE.UU
+
+
+---
+# ¿ES IMPORTANTE LA EDUCACIÓN BILINGÜE?
+
+--
+
+- ¿Porqué?
+
+  - Apoyo a los alumnos que tienen otro idioma nativo o hablan otro idioma en casa
+
+  - Legitimización de las lenguas de un estudiante
+
+  - Mejores resultados académicos
+
+  - Reconocimiento y aprecio por la multiculturalidad
+
+  - Vista positiva del bilingüismo
+
+
+---
+# La historia
+
+- Es un tema muy polémico cuya evolución está ligada a su contexto histórico y político 
+
+---
+background-image: url("libs/img/history1.png")
+background-size: contain
+
+---
+background-image: url("libs/img/history2.png")
+background-size: contain
+---
+background-image: url("libs/img/history3.png")
+background-size: contain
+
+---
+background-image: url("libs/img/history4.png")
+background-size: contain
+
+---
+# Lenni Lenape 
+
+- Proyectos de lengua: https://delawaretribe.org/services-and-programs/language-revitalization/ 
+
+---
+
+background-image: url("libs/img/timeline1.png")
+background-size: contain
+
+---
+class: center, middle
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PDChsbf_0kY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+---
+background-image: url("libs/img/timeline2.png")
+background-size: contain
+---
+background-image: url("libs/img/timeline3.png")
+background-size: contain
+
+---
+background-image: url("libs/img/timeline4.png")
+background-size: contain
+---
+background-image: url("libs/img/timeline5.png")
+background-size: contain
+---
+# Los tres modelos en los EE.UU
+
+- Programas de sumersión y de transición rápida al inglés
+
+- Programas bilingües
+
+  - Transicional 
+  
+  - A doble vía 
+  
+---
+# ¿Es eficaz? 
+
+- Crawford (2007) - nivel académico alcanzado por los niños hispanos que asisten a escuelas monolingües en California, Arizona y Massachusetts. 
+
+  - Not good :(
+  
+- Los niños que asisten a escuelas bilingües = good!! 
+---
+class: center, middle 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0tIppleeIjk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+# Modelos pt 2 
+
+- Español como lengua extranjera
+
+- Español para hispanohablantes
+
+- ESL (modelo transicional)
+
+  - Pull-out : los niños salen de su clase por 1 hora cada día para ir a la clase de ELLs
+  
+  - Push-in / Inclusion : el profesora de ESL entra a la clase para apoyar a los ELLs
+  
+  - Transitional : los niños reciben el contenido de clase en dos idiomas durante 1 o 2 años con la idea de que después de ese tiempo puedan pasar a la clase 100% en inglés
+  
+- Dual-Language Immersion (modelo aditivo/mantenimiento)
+
+  - El colegio tiene dos lenguas de instrucción
+
+  - El contenido se imparte en las dos lenguas
+
+  - El fin es que los niños terminen siendo bilingües y puedan leer y escribir en 2 lenguas
+
+---
+# Ejemplos en NJ - charter/private
+
+- https://holahoboken.org 
+
+- http://www.greaterbrunswick.org
+
+- http://www.jumpimmersion.com 
+
+---
+class: center, middle, inverse
+
+# Descanso
+
+---
+class: center, middle, inverse
+
+# Parte 2: NJ/ACTFL Standards
+
+---
+
+# ACTFL
+
+https://www.actfl.org/
+
+---
+# ACTFL
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GIDCLE-JsM4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+---
+# Performance Descriptors
+
+- Describe the language performance of language learners in Standards-based, performance-oriented learning environments
+
+- Provide descriptive performance outcomes adaptable to fit differences in languages and learners
+
+- Are organized according to:
+
+  - Three Ranges of Performance – Novice Range, Intermediate Range, Advanced Range
+
+  - Three Modes of Communication – Interpersonal, Interpretive, Presentational
+
+  - Domains of Performance
+
+    - Parameters for the Language Learner’s Performance
+
+      - Functions (global tasks the learner can perform in the language)
+
+      - Contexts (situations within which the learner can function) and Content (topics which the learner can understand and discuss)
+
+      - Text Type (that which the learner is able to understand and produce in order to perform the functions of the level)
+---
+# Performance Descriptors (cont.)
+
+- How and how well the language learner is able to be understood and to understand
+Language Control (How accurate is the language learner’s language?)
+
+  - Vocabulary (How extensive and applicable is the language learner’s vocabulary?)
+
+  - Communication Strategies (How does the language learner maintain communication and make meaning?)
+
+  - Cultural Awareness (How is the language learner’s cultural knowledge reflected in language use?)
+
+---
+# Performance Descriptors
+
+Interpersonal: https://www.actfl.org/sites/default/files/publications/ACTFLPerformance_Descriptors-Interpersonal.pdf
+
+Interpretive: https://www.actfl.org/sites/default/files/publications/ACTFLPerformance_Descriptors-Interpretive.pdf
+
+Presentational: https://www.actfl.org/sites/default/files/publications/ACTFLPerformance_Descriptors-Presentational.pdf
+
+---
+background-image: url("libs/img/actfl.png")
+background-size: contain
+
+---
+class: center, middle
+
+# ¿Qué opinamos? 
+
+Speaking: https://www.actfl.org/resources/actfl-proficiency-guidelines-2012/spanish/comunicaci%C3%B3n-oral
+
+Writing: https://www.actfl.org/resources/actfl-proficiency-guidelines-2012/spanish/comunicaci%C3%B3n-escrita
+
+Listening: https://www.actfl.org/resources/actfl-proficiency-guidelines-2012/spanish/comprensi%C3%B3n-auditiva 
+
+Reading: https://www.actfl.org/resources/actfl-proficiency-guidelines-2012/spanish/lectura
+
+---
+
+# Can-do statements
+
+https://www.actfl.org/sites/default/files/can-dos/Can-Do_Benchmarks_Indicators.pdf
+
+---
+# 5 C's
+
+background-image: url("libs/img/cs.png")
+background-size: contain
+
+---
+# Assessment
+
+- K-12 https://www.actfl.org/assessment-research-and-development/actfl-assessments/actfl-k-12-assessments/opi-wpt-the-sobl
+
+- University: OPI, OPIc, WPT https://www.actfl.org/assessment-research-and-development/actfl-assessments/actfl-postsecondary-assessments/oral-proficiency-interview-opi
+
+---
+# NJ State Standards 
+
+https://www.nj.gov/education/cccs/2020/2020%20NJSLS-WL.pdf
+
+---
+# NJ State Standards 
+
+https://www.nj.gov/education/standards/worldlang/Index.shtml
+
+
+---
+class: center, middle
+
+# ¿Qué significa todo esto para nuestra profesión?
+
+---
+
+# Reflexión para esta semana
+
+- piensa en tus clases de español, ¿usaron los estandares de ACTFL?
+
+- observation 
+
+

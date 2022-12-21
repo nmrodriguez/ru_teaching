@@ -1,0 +1,253 @@
+---
+title: "Semana 3"
+subtitle: "La metodología y la planificación"
+author: "Dr. Nicole Rodríguez"
+institute: "Rutgers University"
+date: "2022/12/20s (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    css: [rutgers, rutgers-fonts]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: 16:9
+      link-citations: yes
+---
+class: center, middle, inverse
+
+# Parte 1: La metodología
+
+## donde empezamos y donde estamos 
+
+---
+# Donde empezamos 
+
+- John Amos Comenius escribió un libro / creó un curso completo para aprender latin
+  
+  - Opera Didactica Omnia, 1657
+  
+  - Su teoría de adquisición de idiomas:
+    
+      - la adquisición se relaciona con la sensación y la experiencia 
+      
+      - la enseñanza debe ser oral 
+      
+      - hace falta fotos/modelos/etc. para adquirir vocabulario 
+    
+    - cambió la enseñanza de idiomas de un estudio de solamente gramática a algo intelectual 
+
+---
+class: center, middle
+
+# Grammar-translation method
+
+---
+# Grammar–translation method
+
+- Siglo 18 
+
+.pull-left[
+  - ¿Qué hacen los estudiantes? 
+  
+  - aprenden las reglas de la gramática de un idioma y luego traducen oraciones aplicando esas reglas 
+  
+  - estudiantes más avanzados tienen que traducir textos completos
+
+]
+
+.pull-right[
+  - ¿Las metas?
+  
+  - 1. habilitar a los estudiantes a leer y traducir la literatura 
+  
+  - 2. "further students' general intellecutal development"
+]
+  
+---
+# Grammar–translation method
+
+.pull-left[
+  - ¿En qué lengua se da una clase? 
+  
+  - en la lengua nativa de los estudiantes 
+
+]
+
+.pull-right[
+  - ¿Algo más?
+  
+  - Tests often involve translating classical texts
+  
+  - There is usually no listening or speaking practice, and very little attention is placed on pronunciation or any communicative aspects of the language. The skill exercised is reading and then only in the context of translation
+]
+
+---
+# Grammar-translation method
+
+#### ¿Qué opinamos? 
+
+--
+
+"Despite all of these drawbacks, the grammar–translation method is still the most used method all over the world in language teaching. That is unsurprising since most language proficiency books and tests are in the format of grammar–translation method." 
+
+---
+class: center, middle 
+# Direct Method
+
+---
+# Direct Method/Natural Method
+
+
+
+refrains from using the learners' native language and uses only the target language. It was established in England around 1900 and contrasts with the grammar–translation method and other traditional approaches, as well as with C.J. Dodson's bilingual method. It was adopted by key international language schools such as Berlitz, Alliance Française and Inlingua in the 1970s and many of the language departments of the Foreign Service Institute of the U.S. State Department in 2012.[1]
+
+In general, teaching focuses on the development of oral skills.[2] Characteristic features of the direct method are:
+
+teaching concepts and vocabulary through pantomiming, real-life objects and other visual materials
+teaching grammar by using an inductive approach (i.e. having learners find out rules through the presentation of adequate linguistic forms in the target language)
+the centrality of spoken language (including a native-like pronunciation)
+focus on question–answer patterns
+
+definition
+The direct method in teaching a language is directly establishing an immediate and audiovisual association between experience and expression, words and phrases, idioms and meanings, rules and performances through the teachers' body and mental skills, without any help of the learners' mother tongue.[3]
+
+Direct method of teaching languages aims to build a direct way into the world of the target language making a relation between experience and language, word and idea, thought and expression rule and performance.
+This method intends for students to learn how to communicate in the target language
+This method is based on the assumption that the learner should experience the new language in the same way as he/she experienced his/her mother tongue without considering the existence of his/her mother tongue
+
+essentials
+No translation
+Concepts are taught by means of objects or by natural contexts through the mental and physical skills of the teacher only.
+Oral training helps in reading and writing listening and speaking simultaneously.
+Grammar is taught indirectly through the implication of the situation creation
+
+techniques
+Question/answer exercise – the teacher asks questions of any type and the student answers.
+Dictation – the teacher chooses a grade-appropriate passage and reads it aloud.
+Reading aloud – the students take turns reading sections of a passage, play or a dialogue aloud.
+Student self-correction – when a student makes a mistake the teacher offers him/her a second chance by giving a choice.
+Conversation practice – the students are given an opportunity to ask their own questions to the other students or to the teacher. This enables both a teacher-learner interaction as well as a learner-learner interaction.
+Paragraph writing – the students are asked to write a passage in their own words.
+
+
+There was an attempt to set up conditions that imitate mother tongue acquisition, which is why the beginnings of these attempts were called the natural method. At the turn of the 18th and 19th centuries, Sauveur and Franke proposed that language teaching should be undertaken within the target-language system, which was the first stimulus for the rise of the direct method.[7]
+
+The audio-lingual method was developed in an attempt to address some of the perceived weaknesses of the direct method.
+
+
+.pull-left[
+Good
+
+direct bond between contexts and helps in understanding directly what is heard and read
+Improves fluency of speech – fluency of speech results in easier writing, it tends to improve expression, expression in writing, and it is a quick way of learning and expanding vocabulary
+Aids reading – reading becomes easier and more pleasant, and it also promotes a habit of critical studying
+Improves the development of language sense
+Full of activities, which make it interesting and exciting
+Emphasizes the target language by helping the pupil express their thoughts and feelings directly in target language without using their mother tongue
+Develops listening, speaking, reading.
+Increased employment opportunities
+Helps in bringing words from passive vocabulary into active vocabulary
+Helps in proceeding the English language from particular to general, it bridges the gap between practice and theory
+Makes use of audio-visual aids and also facilitates reading and writing
+Facilitates alertness and participation of students
+]
+
+.pull-right[
+Bad
+Ignores systematic written work and reading activities
+May not hold well in higher-level classes where the translation method may be more suitable
+Supports only limited vocabulary – it restricts the scope of vocabulary as not all words can be directly associated with their meanings
+Needs skilled teachers; e.g., less effective if teachers have a poor command of English
+Ignores reading and writing aspects of language learning
+Does not teach grammar systematically
+Time-consuming in creating real-life situations
+Less suitable for slow learners, who struggle with this method
+]
+
+---
+class: center, middle
+
+# Audio-lingual method
+
+
+--
+
+### "Army Method"
+---
+class: center, middle 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Pz0TPDUz3FU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+# Audio-lingual method
+
+- se basa en "behaviorist theory"
+
+  - John B. Watson (1924), B.F. Skinner (1930)
+  
+  - Watson & Pavlov
+  
+  - which postulates that certain traits of living things, and in this case humans, could be trained through a system of reinforcement. The correct use of a trait would receive positive feedback while incorrect use of that trait would receive negative feedback.
+
+---
+
+background-image: url("libs/img/behaviorism.png")
+background-size: contain
+
+---
+
+# Audio-lingual method
+
+- se basa en "behaviorist theory"
+
+This approach to language learning was similar to another, earlier method called the direct method.[3] Like the direct method, the audio-lingual method advised that students should be taught a language directly, without using the students' native language to explain new words or grammar in target language. However, unlike the direct method, the audio-lingual method did not focus on teaching vocabulary. Rather, the teacher drilled students in the use of grammar.
+
+Applied to language instruction, and often within the context of the language lab, it means that the instructor would present the correct model of a sentence and the students would have to repeat it. The teacher would then continue by presenting new words for the students to sample in the same structure. In audio-lingualism, there is no explicit grammar instruction: everything is simply memorized in form.
+
+The idea is for the students to practice the particular construct until they can use it spontaneously. The lessons are built on static drills in which the students have little or no control on their own output; the teacher is expecting a particular response and not providing the desired response will result in a student receiving negative feedback. This type of activity, for the foundation of language learning, is in direct opposition with communicative language teaching.
+
+Charles Carpenter Fries, the director of the English Language Institute at the University of Michigan, the first of its kind in the United States, believed that learning structure or grammar was the starting point for the student. In other words, it was the students' job to recite the basic sentence patterns and grammatical structures. The students were given only “enough vocabulary to make such drills possible.” (Richards, J.C. et-al. 1986). Fries later included principles of behavioural psychology, as developed by B.F. Skinner, into this method.
+
+Drills and pattern practice are typical (Richards, J.C. et al., 1986):
+
+Repetition: the student repeats an utterance as soon as he hears it.
+Inflection: one word in a sentence appears in another form when repeated.
+Replacement: one word is replaced by another.
+Restatement: the student rephrases an utterance.
+
+The method is the product of three historical circumstances. For its views on language, it drew on the work of American linguists such as Leonard Bloomfield. The prime concern of American linguists in the early decades of the 20th century had been to document all the indigenous languages spoken in the US. However, because of the dearth of trained native teachers who would provide a theoretical description of the native languages, linguists had to rely on observation. For the same reason, a strong focus on oral language was developed.
+
+At the same time, behaviourist psychologists such as B.F. Skinner were forming the belief that all behaviour (including language) was learnt through repetition and positive or negative reinforcement. The third factor was the outbreak of World War II, which created the need to post large number of American servicemen all over the world. It was, therefore, necessary to provide these soldiers with at least basic verbal communication skills. Unsurprisingly, the new method relied on the prevailing scientific methods of the time, observation and repetition, which were also admirably suited to teaching en masse. Because of the influence of the military, early versions of the audio-lingualism came to be known as the “army method.”[1]
+
+As mentioned, lessons in the classroom focus on the correct imitation of the teacher by the students[citation needed]. The students are expected to produce the correct output, but attention is also paid to correct pronunciation. Although correct grammar is expected in usage, no explicit grammatical instruction is given. Furthermore, the target language is the only language to be used in the classroom.[1] Modern implementations are more lax on this last requirement.
+
+
+n the late 1950s, the theoretical underpinnings of the method were questioned by linguists such as Noam Chomsky, who pointed out the limitations of structural linguistics. The relevance of behaviorist psychology to language learning was also questioned, most famously by Chomsky's review of B.F. Skinner's Verbal Behavior in 1959. The audio-lingual method was thus deprived of its scientific credibility and it was only a matter of time before the effectiveness of the method itself was questioned.
+
+In 1964, Wilga Rivers released a critique of the method in her book, The Psychologist and the Foreign Language Teacher. Subsequent research by others, inspired by her book, produced results which showed explicit grammatical instruction in the mother language to be more productive.[citation needed] These developments, coupled with the emergence of humanist pedagogy led to a rapid decline in the popularity of audiolingualism.[citation needed]
+
+Philip Smith's study from 1965-1969, termed the Pennsylvania Project, provided significant proof that audio-lingual methods were less effective than a more traditional cognitive approach involving the learner's first language.[5]
+
+---
+class: center, middle
+
+# The silent way
+
+---
+class: center, middle
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xqLzbLCpack" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+class: center, middle, inverse
+
+# Descanso
+
+---
+class: center, middle, inverse
+
+# Parte 2: La planificación
+
+## la parte práctica 
