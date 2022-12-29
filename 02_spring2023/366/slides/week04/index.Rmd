@@ -1,0 +1,80 @@
+---
+title: "Semana 4"
+subtitle: "Different populations of learners & SLA theories"
+author: "Dr. Nicole Rodríguez"
+institute: "Rutgers University"
+date: "2022/12/28 (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    css: [rutgers, rutgers-fonts]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: 16:9
+      link-citations: yes
+---
+class: center, middle, inverse
+
+# Parte 1: Teorias de SLA
+
+
+---
+# Empezamos primero con teorías de adquisición de lenguas (L1)
+
+
+---
+# SLA
+
+- Ya que sabemos que aprender un segundo idioma es un proceso complejo, vamos a ver que se debe incluir en una teoría de SLA
+
+--
+
+1. A theory of SLA includes an understanding, in general, of what language is, what learning is, and for classroom contexts, what teaching is.
+
+--
+
+2. Knowledge of children's learning of their first language provides essential insights to an understanding of SLA.
+
+--
+
+3. However, a number of important differences between adult and child learning and between first and second language acquisition must be carefully accounted for. 
+
+--
+
+4. Second language learning is a part of and adheres to general principles of human learning and intelligence. 
+
+--
+
+5. There is tremendous variation across learners in cognitive style and within a learner in strategy choice.
+
+--
+
+6. Personality, the way people view themselves and reveal themselves in communication, will affect both the quantity and quality of second language learning.
+
+--
+
+7. Learning a second culture is often intricately intertwined with learning a second language. 
+
+--
+
+8. The linguistic contrasts between the native and target language form one source of difficulty in learning a second language. But the creative process of forming an interlanguage system involves the learner in utilizing many facilitative sources and resources. Inevitable aspects of this process are errors, from which learners and teachers can gain further insight. 
+
+--
+
+9. Communicative competence, with all of its subcategories, is the ultimate goal of learners as they deal with function, discourse, register, and nonverbal aspects of human interaction and linguistic negotiation. 
+
+
+---
+class: center, middle, inverse
+
+# Descanso
+
+---
+class: center, middle, inverse
+
+# Parte 2: Diferentes poblaciones de aprendices
+
+---
+
