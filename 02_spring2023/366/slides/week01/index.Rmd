@@ -41,8 +41,8 @@ class: center, middle, inverse
 # Syllabus y Canvas
 
 ---
-
-pic of canvas here
+background-image: url("libs/img/canvas.png")
+background-size: contain
 
 ---
 # Información básica
@@ -358,7 +358,9 @@ Padlet
 
 ---
 
-video here
+class: center, middle
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zDZFcDGpL4U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 class: center, middle 
@@ -370,12 +372,22 @@ class: center, middle
 
 
 ---
+# Word Cloud
 
-Word cloud - adjectives to describe good teachers 
+Adjetivos que describen a nuestro profe favorit@
+
+https://PollEv.com/free_text_polls/sL2vWQSIBpkMa8objlnZ6/respond
 
 ---
+class: center, middle
 
-video here 
+<iframe src="https://pollev-embeds.com/free_text_polls/sL2vWQSIBpkMa8objlnZ6/respond" width="800px" height="600px"></iframe>
+
+
+---
+class: center, middle 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wFqQm1541aA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 class: center, middle, inverse
@@ -390,30 +402,97 @@ class: center, middle, inverse
 
 1. ¿Qué significa la proficiencia?
 
-2. ¿How does one become proficient in a language?
+2. ¿Cómo conseguimos proficiencia en un idioma?
 
-3. What characterizes a classroom environment in which opportunities to become proficient are maximized?
-
----
-# Defining language proficiency
-
-- What does it mean to know a language
-
+3. ¿Cuáles son las características de un aula/ambiente escolar que mejor nos ayuda a ser más proficientes?
 
 ---
-# Language 
+# Cómo definimos la proficiencia
 
-pg. 4 - 8 in douglass brown book
+-  la proficiencia implica que tenemos conocimiento, pero ¿a qué nivel?
+
+--
+
+- "Some common synonyms for the term *proficiency* include words like expertise, ability, or competence, implying a high level of skill, well-developed knowledge, or a polished performance." 
+
+--
+
+- Competence: refers to one's implicit or explicit knowledge of the system of the language
+
+- Performance: one's actual production and comprehension of language in specific instances of language use
+
+---
+
+background-image: url("libs/img/tarzan.png")
+background-size: contain
+
+---
+# El lenguaje (Brown, 2000)
+
+- ¿Cómo definimos un lenguaje? 
+
+--
+
+.pull-left[
+1. Language is systematic 
+
+2. Language is a set of arbitrary symbols
+
+3. Those symbols are primarily vocal, but may also be visual
+
+4. The symbols have conventionalized meanings to which they refer
+
+
+]
+
+
+.pull-right[
+5. Language is used for communication
+
+6. Language operates in a speech community or culture
+
+7. Language is essentially human, although possibly not limited to humans
+
+8. Language is acquired by all people in much the same way; language and language learning both have universal characteristics 
+
+]
+
+---
+# Cómo definimos aprender y enseñar (Brown, 2000)
+
+1. Learning is acquisition or "getting"
+
+--
+
+2. Learning is retention of information or skill
+
+--
+
+3. Retention implies storage systems, memory, cognitive organization
+
+--
+
+4. Learning involves active, conscious focus on and acting upon events outside or inside the organism
+
+--
+
+5. Learning is relatively permanent but subject to forgetting 
+
+--
+
+6. Learning involves some form of practice, perhaps reinforced practice
+
+--
+
+7. Learning is a change in behavior
 ---
 # Components of language competence 
 
-- pic in book
-
----
-
-"Second language learning is described as a complex, long-term effort that requires much of the learner. In small groups of three to five, share your own experiences in learning or attempting to learn, a foreign language. Describe your own (a) commitment, (b) involvement, and (c) effort to learn."
+- pg 8. teaching language in context
 
 ---
 # Reflexión para esta semana
 
-- 
+- "Second language learning is described as a complex, long-term effort that requires much of the learner. In small groups of three to five, share your own experiences in learning or attempting to learn, a foreign language. Describe your own (a) commitment, (b) involvement, and (c) effort to learn."
+
+- ¿Por qué estás tomando este curso?
