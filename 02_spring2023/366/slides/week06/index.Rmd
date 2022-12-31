@@ -1,6 +1,6 @@
 ---
-title: "Semana 5"
-subtitle: "Heritage Speakers & theoretical frameworks"
+title: "Semana 6"
+subtitle: "Competencia cultural y Language ideologies"
 author: "Dr. Nicole Rodríguez"
 institute: "Rutgers University"
 date: "2022/12/30 (updated: `r Sys.Date()`)"
@@ -17,302 +17,41 @@ output:
 ---
 class: middle, center, inverse
 
-# ¿Qué es un hablante de herencia? 
-
-## ¿Cómo podemos definir a los hablantes de herencia? 
+# Parte 1: Competencia cultural
 
 ---
-# Hablantes de herencia
+class: center, middle
 
-Según Valdes (2000) un hablante de herencia es una persona que habla, lee, escribe o entiende un idioma non-dominante en la sociedad
+"Paul Simon, in his provocative book *The Tounge-Tied American* (1980), recounts the story of a Georgia school board member who approached Genelle Morain of the University of Georgia with the question: 'Why should a student who will never leave Macon, Georgia, student a foreign language?" Her reply was succint but profound: 'That's *why* he should study another language'." 
+
+
+---
+class: center, middle
+
+"This focus on the importance of cultural learning is rooted in at least two widely held beliefs among foreign language professionals: (1) that language study is essential component in the curriculum, in part because it can lead to greater cross-cultural understanding, and (2) that language and culture are inseparably intertwined."
+
+
+"There is no question that the successful integration of culture and language teaching can contribute significantly to general humanistic knowledge, that language ability and cultural sensitivity can play a vital role in the security, defense, and economic well-being of this country, and that global understanding ought to be a mandatory component of basic education."
+
+
+---
+# Implicit Bias Association Test
+
+
+https://resources.lmu.edu/dei/initiativesprograms/implicitbiasinitiative/whatisimplicitbias/testyourimplicitbias-implicitassociationtestiat/
+
+
+---
+class: middle, center, inverse
+
+# Descanso
+
+---
+class: middle, center, inverse
+
+# Parte 2: Language Ideologies
 
 ---
 background-image:  url("libs/img/hs.png")
 background-size: contain
 
----
-
-background-image:  url("libs/img/hs2.png")
-background-size: contain
-
----
-
-background-image:  url("libs/img/hll.png")
-background-size: contain
-
----
-
-background-image:  url("libs/img/hsl2.png")
-background-size: contain
-
-
----
-class: center, middle
-# Teorías de la adquisición de una lengua de herencia
-
----
-# Teorías de la adquisición de una lengua de herencia
-
-- Incomplete Acquisition
-
-- Attrition
-
-- Delayed Acquisition
-
-- Input
-
-- Dialect Variation
-
-- Cross-linguistic influence 
-
----
-# Teorías de la adquisición de una lengua de herencia
-
-- **Incomplete Acquisition**
-
-- Attrition
-
-- Delayed Acquisition
-
-- Input
-
-- Dialect Variation
-
-- Cross-linguistic influence 
-
-
----
-# Teorías de la adquisición de una lengua de herencia
-
-- Incomplete Acquisition
-
-- Montrul
-
-- Esta teoría reconoce que la adquisición "completa" de una L1 pasa a lo largo de la niñez/juventud. 
-
-- Así: HH/HS/HL "who typically switch to the dominant culture's language when they enter school and, consequently, experience a decline in input in the heritage language, do not completely acquire their first language"
-
-- "interrupted L1 acquisition"
-
-- mucha crítica 
-
----
-
-background-image:  url("libs/img/year.png")
-background-size: contain
-
----
-# Teorías de la adquisición de una lengua de herencia
-
-- Incomplete Acquisition
-
-- **Attrition**
-
-- Delayed Acquisition
-
-- Input
-
-- Dialect Variation
-
-- Cross-linguistic influence 
-
----
-# Teorías de la adquisición de una lengua de herencia
-
-- Attrition
-
-- Errores/una "grammar" incompleta, es el resultado de attrition y fossilization de los conceptos en la L1 por razones de falta de input cuando el niño hizo el cambió al idioma dominante. 
-
-- "Fossilization occurs when a speaker lets go of non-core grammatical concepts but retains the basic core structure of the language."
-
-- "Attrition and fossilization are considered to be part of the Incomplete Acquisition Theory because they render a language incomplete."
-
-- Pires and Rothman (2009) argue that attrition should be distinguished from the Incomplete Acquisition Theory in future studies because, in instances of attrition, the speakers do, indeed, completely acquire the target grammar as children.
-
----
-# Teorías de la adquisición de una lengua de herencia
-
-- Incomplete Acquisition
-
-- Attrition
-
-- **Delayed Acquisition**
-
-- Input
-
-- Dialect Variation
-
-- Cross-linguistic influence 
-
----
-# Teorías de la adquisición de una lengua de herencia
-
-- Delayed Acquisition
-
-- Flores and Barbosa (2014) claim that the heritage speakers go through the same stages of acquisition as their monolingual counterparts, but it is delayed and take longer for the heritage speakers because they have reduced input of the heritage language. This theory must be considered in conjunction with theories on input variation.
-
----
-# Teorías de la adquisición de una lengua de herencia
-
-- Incomplete Acquisition
-
-- Attrition
-
-- Delayed Acquisition
-
-- **Input**
-
-- Dialect Variation
-
-- Cross-linguistic influence 
-
-
----
-# Teorías de la adquisición de una lengua de herencia
-
-- Input
-
-- Quality/Quantity 
-
-- "Theories of acquisition involving variations of input postulate that heritage language learners' production of the heritage language diverges from that of their monolingual peers who speak the same language because the two groups are exposed to different dialects and quantities of input.
-
-
-- "Heritage language learners may also have a smaller quantity of input than their monolingual peers because the heritage language is only found in a restricted number of contexts and with fewer interlocutors. Citing statistics found in studies on hearing children with deaf parents, Flores and Barbosa (2014) posit that bilingual heritage language learners need a minimum of 5 to 10 hours of interaction per week with the language to develop native-like proficiency. Hours of input may be particularly restricted once the heritage speaker switches to the dominant language."
-
-
----
-# Teorías de la adquisición de una lengua de herencia
-
-- Incomplete Acquisition
-
-- Attrition
-
-- Delayed Acquisition
-
-- Input
-
-- **Dialect Variation**
-
-- Cross-linguistic influence 
-
----
-# Teorías de la adquisición de una lengua de herencia
-
-- Dialect Variation
-
-- "Theories surrounding dialect variation suggest that errors or deviations from the standard dialect made by a heritage language learner may reflect the acquisition of a non-standard variety or informal register of the heritage language, which include variations on certain properties or the lack of certain properties found in the standard dialect. Heritage language learners are often only exposed to one dialect or colloquial variety of the heritage language, unlike their monolingual peers who interact with a standard monolingual dialect found in formal instruction. Furthermore, certain grammatical properties are only present in the standard dialect or are used infrequently in the colloquial dialect. Pires and Rothaman use the expression, "missing-input competence divergence," to refer to instances when a grammatical property is missing from the colloquial variety."
-
----
-
-# Teorías de la adquisición de una lengua de herencia
-
-- Incomplete Acquisition
-
-- Attrition
-
-- Delayed Acquisition
-
-- Input
-
-- Dialect Variation
-
-- **Cross-linguistic influence** 
-
----
-background-image:  url("libs/img/hlp.png")
-background-size: contain
----
-
-background-image:  url("libs/img/sum.png")
-background-size: contain
-
-
----
-class: center, middle
-
-# ¿Qué pensamos? ¿Cuáles de estas teorías nos parece más útiles/adecuadas/etc?
-
-### Lista de pros/contras
----
-class: center, middle
-
-# Heritage Languages and Their Speakers: Opportunities and Challenges for Linguistics
-
----
-class: center, middle
-
-# Pensamos en nuestras vidas/experiencias 
-
----
-class: center, middle, inverse
-
-# Descanso
-
----
-class: center, middle
-
-# Cómo enseñamos a los HS
-
----
-class: center, middle
-
-# Jigsaw
-
-#### Meeting Student Needs: Integrating Spanish Heritage Language Learners into the Second Language Classroom
-
-#### Exploring interaction between heritage and second language learners in the Spanish language classroom: Opportunities for collaborative dialogue and learning
-
----
-class: center, middle 
-
-# Actitudes | Identidad | Accentos | etc
-
-
----
-class: center, middle
-
-# Language and Culture 
-
-### Claire Kramsch
-
----
-# Preguntas 
-
-- ¿Cómo definimos nuestras identidades culturales?
-
-- Según la lectura, ¿qué es "language crossing"?
-
-- Según la lectura, ¿qué es un "act of identity"?
-
-- Habla de la importancia de derechos lingüisticos y del impacto del imperalismo lingüístico 
-
----
-class: center, middle
-
-background-image:  url("libs/img/bilingual.jpg")
-background-size: contain
-
----
-class: center
-
-# "No sabo" kids
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVNwpTJy0ZI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
----
-class: center, middle
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4Y9G3fW27vM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
----
-class: center, middle
-
-# ¿Qué tenemos que tener en cuenta cuando tenemos a HS en nuestras clases?
-
-### Pensamos lo que aprendimos de las teorías
-
----
-class: center, middle
-
-# Cómo modificamos nuestros lesson plans 
