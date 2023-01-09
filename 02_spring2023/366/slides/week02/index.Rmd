@@ -234,10 +234,12 @@ Reading: https://www.actfl.org/resources/actfl-proficiency-guidelines-2012/spani
 https://www.actfl.org/sites/default/files/can-dos/Can-Do_Benchmarks_Indicators.pdf
 
 ---
-# 5 C's
-
 background-image: url("libs/img/cs.png")
 background-size: contain
+
+# 5 C's
+
+
 
 ---
 # Assessment
