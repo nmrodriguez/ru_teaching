@@ -3,7 +3,7 @@ title: "Semana 3"
 subtitle: "La metodología y la planificación"
 author: "Dr. Nicole Rodríguez"
 institute: "Rutgers University"
-date: "2022/12/20s (updated: `r Sys.Date()`)"
+date: "2022/12/20 (updated: `r Sys.Date()`)"
 output:
   xaringan::moon_reader:
     css: [rutgers, rutgers-fonts]

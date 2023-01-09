@@ -852,3 +852,11 @@ background-size: contain
 class: center, middle, inverse
 
 # ¿Qué significa todo esto para nuestra planificación?
+
+
+---
+# Reflexión para esta semana
+
+- Pensad en las actividades que hicistéis en tus clases esta mañana, ¿se nota en la planificación que vuestros profes han pensando en diferentes poblaciones de aprendices? 
+
+- Si sí, ¿cómo? Si no, ¿qué pudieron hacer diferente?
