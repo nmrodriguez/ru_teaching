@@ -354,7 +354,7 @@ class: center, middle, inverse
 
 - ¿Cómo mejor aprendemos? 
 
-Padlet
+Padlet: https://padlet.com/nmrodriguez1994/23w8v3lng3z4
 
 ---
 
@@ -485,10 +485,6 @@ background-size: contain
 --
 
 7. Learning is a change in behavior
----
-# Components of language competence 
-
-- pg 8. teaching language in context
 
 ---
 # Reflexión para esta semana
