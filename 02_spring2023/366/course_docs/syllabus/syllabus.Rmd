@@ -206,11 +206,11 @@ Nota: el siguiente temario es provisional. El objetivo es proporcionar una visi�
 | 6      | 2/21  | Competencia cultural y Language ideologies |
 | 7      | 2/28  | Community engagement y Service learning |
 | 8      | 3/7   | TBLT / content based instruction / gamification |
-| 9      | 3/14  | ¡Spring break! |
-| 10     | 3/21  | Literacy Development |
-| 11     | 3/28  | Assessment, Evaluation, and Writing |
-| 12     | 4/4   | Feedback and error correction |
-| 13     | 4/11  | Textbook and culturally authentic materials |
-| 14     | 4/18  | Teaching Philosophy, technology, the future |
-| 15     | 4/25  | ¿Qué hemos aprendido? ¿Qué es la enseñanza? |
+|        | 3/14  | ¡Spring break! |
+| 9     | 3/21  | Literacy Development |
+| 10     | 3/28  | Assessment, Evaluation, and Writing |
+| 11     | 4/4   | Feedback and error correction |
+| 12     | 4/11  | Textbook and culturally authentic materials |
+| 13     | 4/18  | Teaching Philosophy, technology, the future |
+| 14     | 4/25  | ¿Qué hemos aprendido? ¿Qué es la enseñanza? |
 

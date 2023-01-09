@@ -1,0 +1,87 @@
+---
+title: "Semana 13"
+subtitle: "Teaching Philosophy, technology, the future"
+author: "Dr. Nicole Rodríguez"
+institute: "Rutgers University"
+date: "2023/01/06 (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    css: [rutgers, rutgers-fonts]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: 16:9
+      link-citations: yes
+---
+class: center, middle, inverse
+
+# Parte 1: Teaching Philosophy
+
+---
+# The Teaching Portfolio
+
+"A teaching portfolio is an important key element for the professional development.  It is extremely beneficial in preparation for the job market and in determining teaching awards. It is extremely important to have one always updated and ready for submission."
+
+---
+# The Teaching Philosophy
+
+- Defines you as a teacher
+
+- Explains the manner that you apply and/or combine teaching techniques 
+
+- States your experience
+
+- Explains your beliefs
+
+- Describes future projects
+
+- Demonstrates knowledge on the use of technology
+
+- Is adaptable and flexible
+
+- Is your presentation card
+
+---
+# Do not forget to include the following
+
+- On which at ideas or concepts is your teaching philosophy based?
+
+- What kind of roles should instructors and students have?
+
+- What teaching techniques do you use in class?  How do you incorporate them?
+
+- How do you approach teaching culture?
+
+- How do you contextualize and use content in class?
+
+- Do you follow the National Standards when you teach?  If so, how?
+
+- Are your classes designed to develop proficiency?  What goals do you have?
+
+- Do you use technology?  If so, how?
+
+---
+# Your teaching philosophy
+
+- 1-3 paragraphs
+
+- Clear and precise
+
+- Explain and describe briefly
+
+- Show flexibility
+
+---
+class: center, middle, inverse
+
+# Descanso
+
+---
+class: center, middle, inverse
+
+# Parte 2: Technology
+
+---
+
