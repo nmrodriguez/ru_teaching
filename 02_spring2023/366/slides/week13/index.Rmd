@@ -74,6 +74,22 @@ class: center, middle, inverse
 - Show flexibility
 
 ---
+# Sample: Teaching Methods and Student's Role
+
+"**Communicative approach**:
+
+I believe in the importance of a "Communicative approach" and the concept of "Active" students versus Passive students. 
+
+a. Active students. If your students are highly motivated, they are usually quite active. Being active in any communicative aspect is essential: listening, speaking, writing, reading, and interacting. I tried to look for a way to motivate my students by trying to learn about their interests and offering them a selection of practical and cultural topics that the students would find easy to engage in. 
+
+b. Communicative approach. I believe it is important to offer the students the widest range of possibilities to communicate. In other words, I think we should try to model our time with the students after a real situation that would require communication: to claim a lost suitcase from the airplane company, to be able to manage a work meeting, or to have a nice chat with the man who works at the drink stand."
+
+---
+# Sample: Standards and beliefs
+
+"
+
+---
 class: center, middle, inverse
 
 # Descanso
