@@ -1,0 +1,214 @@
+---
+title: "Nuestros planes de verano"
+subtitle: "Demo Lesson"
+author: "Nicole Rodríguez"
+institute: ""
+date: "2023/2/4 (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    css: [rutgers, rutgers-fonts]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: 16:9
+      link-citations: yes
+---
+# ¿Quién soy yo?
+
+--
+
+- NJ/Galicia
+
+--
+
+- NYM/Celta de Vigo
+
+--
+
+- Viajo mucho
+
+---
+# Nuestro plan 
+
+- Hablaremos de nuestros planes de verano 
+
+- Ayudaremos a algunos amigos 
+
+---
+class: center, middle
+
+# Los planes de verano
+
+--
+
+## ¿Cuáles son las opciones de planes de verano para estudiantes aquí en Wilmington?
+
+--
+
+## Pensamos - Emparejamos - Compartimos
+
+
+---
+class: center, middle
+
+# Vamos a ayudar a algunos amigos a buscar planes/trabajos/pasantías de verano
+
+---
+background-image: url("libs/img/hs.png")
+background-size: contain
+
+---
+class: center, middle
+
+# Repasamos
+
+---
+class: center, middle
+
+# Los verbos como gustar 
+
+
+---
+# El verbo gustar
+
+### El verbo gustar tiene DOS formas: **gusta** y **gustan**
+
+| Comp. Indirecto | gusta/gustan | Sujeto         | 
+| --------------- | ------------ | -------------- |
+| Me              | gust**a**    | jugar al tenis |
+| Te              | gust**a**    | el tenis       |
+| Le              | gust**a**    | el deporte     |
+| Nos             | gust**a**    | la clase       |
+| Os              | gust**a**    | UNC-W          |
+| Les             | gust**a**    | la lluvia      |
+
+---
+
+# El verbo gustar
+
+### El verbo gustar tiene DOS formas: **gusta** y **gustan**
+
+| Comp. Indirecto | gusta/gustan  | Sujeto               | 
+| --------------- | ------------- | -------------------- |
+| Me              | gust**an**    | los árboles          |
+| Te              | gust**an**    | el tenis y el fútbol |
+| Le              | gust**an**    | los deportes         |
+| Nos             | gust**an**    | las clases           |
+| Os              | gust**an**    | los edificios        |
+| Les             | gust**an**    | las nubes            |
+
+---
+
+
+# El énfasis y aclaración con gustar y los nombres.
+
+| Comp. Indirecto    | gusta/gustan | Sujeto         |
+| ------------------ | ------------ | -------------- |
+| **A mí** me        | gust**a**    | jugar al tenis |
+| **A ti** te        | gust**a**    | el tenis       |
+| **A él** le        | gust**a**    | el deporte     |
+| **A nosotros** nos | gust**a**    | la clase       |
+| **A vosotros** os  | gust**a**    | UNC-W          |
+| **A ellas** les    | gust**a**    | la lluvia      |
+
+--
+
+
+### **A Carlos** le gusta pasar su tiempo libre en la residencia,
+
+### *pero* **a Juan** le gusta estudiar en su cuarto.
+
+---
+
+# Cuando NO usamos gustar
+
+¿Me gusta el Vice-Chancellor de UNC-W?
+
+![img](libs/img/volety.png)
+
+
+
+---
+class: center, middle
+# ¡No!
+
+--
+
+o... ¿sí?
+
+--
+
+Me cae bien Dr. Volety. 
+
+Me llevo bien con Dr. Volety. 
+
+---
+
+# Otros verbos como gustar
+
+
+
+| Verbos como gustar  |               |
+| ------------------- | ------------- |
+| aburrir             | hacer falta   |
+| caer bien/mal       | importar      |
+| disgustar           | interesar     |
+| doler               | molestar      |
+| encantar            | preocupar     |
+| faltar              | quedar        |
+| fascinar            | sorprender    |
+
+
+---
+background-image: url("libs/img/aburrir.png")
+background-size: contain
+
+-- 
+#Aburrir
+
+---
+background-image: url("libs/img/spain.png")
+background-size: contain
+
+# Doler
+---
+
+background-image: url("libs/img/tswift.png")
+background-size: contain
+
+# Hacer falta
+
+---
+
+background-image: url("libs/img/badbunny.png")
+background-size: contain
+
+# Molestar
+
+---
+class: center, middle 
+# ¿Y nosotros?
+
+--
+
+# Preocupar
+
+---
+class: center, middle
+
+
+# Citas rápidas 
+
+
+---
+class: center, middle
+
+# Ya que nos conocemos un poquito más, ¿qué deben hacer nuestros amigos este verano? 
+
+---
+class: center, middle
+
+# Para salir...
+
