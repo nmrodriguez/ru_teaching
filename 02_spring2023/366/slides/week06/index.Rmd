@@ -55,3 +55,29 @@ class: middle, center, inverse
 background-image:  url("libs/img/hs.png")
 background-size: contain
 
+
+---
+---
+class: center, middle 
+
+# Actitudes | Identidad | Accentos | etc
+
+
+---
+class: center, middle
+
+# Language and Culture 
+
+### Claire Kramsch
+
+---
+# Preguntas 
+
+- ¿Cómo definimos nuestras identidades culturales?
+
+- Según la lectura, ¿qué es "language crossing"?
+
+- Según la lectura, ¿qué es un "act of identity"?
+
+- Habla de la importancia de derechos lingüisticos y del impacto del imperalismo lingüístico 
+

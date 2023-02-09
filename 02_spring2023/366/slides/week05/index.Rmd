@@ -94,7 +94,7 @@ class: center, middle
 
 - "interrupted L1 acquisition"
 
-- mucha crítica 
+- **mucha crítica** (see article: Putnam and Sanchez, 2013 for more info)
 
 ---
 
@@ -256,35 +256,11 @@ class: center, middle
 ---
 class: center, middle
 
-# Jigsaw
+# Read the following articles on Canvas:
 
-#### Meeting Student Needs: Integrating Spanish Heritage Language Learners into the Second Language Classroom
+#### Meeting Student Needs: Integrating Spanish Heritage Language Learners into the Second Language Classroom (file: burgo_2017.pdf)
 
-#### Exploring interaction between heritage and second language learners in the Spanish language classroom: Opportunities for collaborative dialogue and learning
-
----
-class: center, middle 
-
-# Actitudes | Identidad | Accentos | etc
-
-
----
-class: center, middle
-
-# Language and Culture 
-
-### Claire Kramsch
-
----
-# Preguntas 
-
-- ¿Cómo definimos nuestras identidades culturales?
-
-- Según la lectura, ¿qué es "language crossing"?
-
-- Según la lectura, ¿qué es un "act of identity"?
-
-- Habla de la importancia de derechos lingüisticos y del impacto del imperalismo lingüístico 
+#### Exploring interaction between heritage and second language learners in the Spanish language classroom: Opportunities for collaborative dialogue and learning (file: Fernandez-Dobao2020.pdf)
 
 ---
 class: center, middle
