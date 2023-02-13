@@ -1,0 +1,249 @@
+---
+title: "El futuro (y nuestros sentimientos)"
+subtitle: "Demo Lesson"
+author: "Nicole Rodríguez"
+institute: ""
+date: "2023/2/12 (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    css: [rutgers, rutgers-fonts]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: 16:9
+      link-citations: yes
+---
+# ¿Quién soy yo?
+
+--
+
+- NJ/Galicia
+
+--
+
+- NYM/Celta de Vigo
+
+--
+
+- Viajo mucho
+
+---
+# Nuestro plan 
+
+- Hablar sobre las metas/aspiraciones de otras personas 
+
+--
+
+- Hablar sobre el futuro 
+
+--
+
+- Expresar nuestros sentimientos/emociones sobre eventos (reaccionar)
+
+---
+class: center, middle
+
+# Nuestras metas/aspiraciones | El futuro 
+
+--
+
+## Vamos a crear un "Mind Map"
+
+---
+
+background-image: url("libs/img/mindmap.png")
+background-size: contain
+
+---
+
+background-image: url("libs/img/example.png")
+background-size: contain
+
+
+---
+
+# Vocabulario útil que nos puede ayudar
+
+--
+
+.pull-left[
+**Preguntas sobre el futuro**
+
+- ¿Qué quieres ser? 
+
+- ¿A qué quieres dedicarte?
+
+- ¿Cuál es tu sueño? 
+
+- ¿Cuáles son tus aspiraciones en la vida? 
+
+- ¿Cómo piensas realizar tus sueños / tu meta?
+
+**Metas a corto plazo**
+
+- Conseguir una beca
+
+- Estudiar en el extranjero
+
+- Hacer una pasantía
+
+- Conseguir un buen empleo
+]
+
+.pull-right[
+
+**Metas a largo plazo**
+
+- ayudar al prójimo
+
+- dedicarse a la investigación/al servicio público
+
+- ganar (mucho) dinero
+
+- ser (jefe/a | emplead@ | gerente) de una empresa grande
+
+- tener éxito 
+
+- trabajar para (un banco | el gobierno | etc.)
+]
+
+---
+class: center, middle
+
+# El futuro de algunos conocidos...
+
+
+---
+
+background-image: url("libs/img/harrystylesnews.png")
+background-size: contain
+
+---
+class: center, middle
+
+# El presente del subjuntivo con expresiones de emoción 
+
+
+---
+# El presente del subjuntivo con expresiones de emoción 
+
+Para expresar como sentimos sobre un evento o las acciones de otra persona usamos oraciones de tres partes 
+
+--
+
+#### Expresión de emoción + que + presente del subjuntivo (con un nuevo sujeto)
+
+---
+# Ejemplos
+
+--
+
+- Me preocupa que mi hermano no tenga ninguna entrevista de trabajo.
+
+--
+
+- A mis padres les sorprende que yo no quiera vivir con ellos. 
+
+
+---
+# También podemos usar expresiones impersonales de emoción
+
+--
+
+### Es triste que no haya muchas ofertas de trabajo. 
+
+---
+
+# Otros ejemplos
+
+- Es bueno/mal que...
+
+- Es curioso que...
+
+- Es estupendo que...
+
+- Es extraño que...
+
+- Es fantástico que...
+
+- Es una lástima que...
+
+- Es ridículo que...
+
+- Es triste que...
+
+---
+**Ejemplos:**
+
+1. Me gusta la idea de que **vayas** a Madrid a estudiar. 
+
+2. Es triste que él **esté** enfermo y no **haga** el examen. 
+
+--
+
+3. Siento mucho no ir a tu fiesta de cumpleaños. 
+
+4. Siento mucho que no **vaya** a tu fiesta de cumpleaños.
+
+
+---
+# Ojalá
+
+**Ojalá** significa "Espero que" que sugiere una emoción 
+
+**SIEMPRE** requiere el subjuntivo.
+
+- Ojalá (que) **tengas** suerte. 
+
+---
+
+# Expresamos nuestras emociones
+
+Con otra persona, usad la lista para decir algunas cosas que les molesta, disgusta, entristece, sorprende, gustar, etc. y expliquen por qué
+
+.pull-left[
+- ser inmadura
+
+- fumar cerca de ti
+
+- quejarse constantemente
+
+- masticar chicle y hacer ruido
+
+- hablar mal de otros
+
+- mentir mucho
+]
+
+.pull-right[
+- hablar con la boca llena
+
+- no compartir sus cosas
+
+- pedir dinero prestado
+
+- ¿?
+]
+
+---
+class: center, middle
+
+# Volvemos al chisme de los famosos
+
+---
+class: center, middle
+
+# Citas rápidas (y volvemos a nuestros futuros)
+
+---
+class: center, middle
+
+# Para salir...
+
+---
+
+
+background-image: url("libs/img/exit.png")
+background-size: contain
