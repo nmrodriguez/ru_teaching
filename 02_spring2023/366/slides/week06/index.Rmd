@@ -1,6 +1,6 @@
 ---
 title: "Semana 6"
-subtitle: "Competencia cultural y Language ideologies"
+subtitle: "Assessment, Evaluation, & Writing"
 author: "Dr. Nicole Rodríguez"
 institute: "Rutgers University"
 date: "2022/12/30 (updated: `r Sys.Date()`)"
@@ -17,67 +17,275 @@ output:
 ---
 class: middle, center, inverse
 
-# Parte 1: Competencia cultural
+# Parte 1: Assessment | Evaluation | Writing
+
+---
+class: middle, center
+
+# "Bilingualism/Second-Language Research and the Assessment of Oral Proficiency in Minority Bilingual Children"
+
+### Dr. Liliana Sánchez
 
 ---
 class: center, middle
 
-"Paul Simon, in his provocative book *The Tounge-Tied American* (1980), recounts the story of a Georgia school board member who approached Genelle Morain of the University of Georgia with the question: 'Why should a student who will never leave Macon, Georgia, student a foreign language?" Her reply was succint but profound: 'That's *why* he should study another language'." 
+# ¿Qué piensas cuando escuchas la palabra "test"?
 
+---
+# Tests
+
+- "A method of measuring a person's ability, knowledge, or performance in a given domain."
+
+--
+
+- Testing and assessment are not synonymous 
+
+
+--
+
+- Informal vs formal assessment
+
+
+--
+
+- Formative vs Summative assessment
+
+
+--
+
+- Norm-references and criterion-referenced tests
+
+--
+
+- Communicative Language Testing
+
+--
+
+- Performance-Based Assessment
+
+---
+# Formative vs. Summative Assessment
+
+- What is the function of the assessment? 
+
+.pull-left[
+**Formative**
+
+- evaluating students in the process of "forming" their compretencies and skills with the goal of helping them to continue that growth process
+
+- most of our classroom assessment is formative
+
+- key is delivery (by the teacher) and internalization (by the student) of appropriate feedback on performance, with an eye toward the future continuation (or formation) of learning
+
+- virtually all informal assessment should be formative
+
+]
+
+.pull-right[
+**Summative**
+
+- aims to measure, or summarize, what a student has grasped, and typically occurs at the end of a course or a unit of instruction
+
+- implies looking back and taking stock of how well that student has accomplished objectives, but does not necessarily point the way to future progress
+
+- final exams
+
+]
+
+---
+# Problemas con formative vs summative assessments 
+
+"I'm glad that's over! Now I don't have to remember that stuff anymore!"
+
+--
+
+¿Cómo podemos cambiar para que los estudiantes no digan ^^"
 
 ---
 class: center, middle
 
-"This focus on the importance of cultural learning is rooted in at least two widely held beliefs among foreign language professionals: (1) that language study is essential component in the curriculum, in part because it can lead to greater cross-cultural understanding, and (2) that language and culture are inseparably intertwined."
-
-
-"There is no question that the successful integration of culture and language teaching can contribute significantly to general humanistic knowledge, that language ability and cultural sensitivity can play a vital role in the security, defense, and economic well-being of this country, and that global understanding ought to be a mandatory component of basic education."
-
+# Ejemplos
 
 ---
-# Implicit Bias Association Test
+# Principals of Language Assessment
 
+- Practicality
 
-https://resources.lmu.edu/dei/initiativesprograms/implicitbiasinitiative/whatisimplicitbias/testyourimplicitbias-implicitassociationtestiat/
+- Reliability
 
+- Validity
+
+- Authenticity
+
+- Washback
 
 ---
-class: middle, center, inverse
+# Principals of Language Assessment
+
+- **Practicality**: an effective test is practical
+
+--
+
+  - is not excessively expensive
+  
+  - stays within appropriate time constraints 
+  
+  - is relatively easy to administer 
+  
+  - has a strong scoring/evaluation procedure that is specific and time-efficient
+  
+---
+# Principals of Language Assessment
+
+- **Reliability**: consistent and dependable 
+
+--
+
+  - student-related reliability
+  
+  - rater reliability (inter-rater and intra-rater)
+  
+  - test administration reliability 
+  
+  - test reliability
+  
+---
+# Principals of Language Assessment
+
+- **Validity**: "the extent to which inferences made from assessment results are appropriate, meaningful, and useful in terms of purpose of the assessment"
+
+--
+
+- content-related evidence
+
+- criterion-related evidence
+
+- construct-related evidence
+
+- consequential validity
+
+- face validity
+
+---
+# Principals of Language Assessment
+
+- **Authenticity**: "the degree of correspondence of the characteristics of a given language test task to the features of a target language task"
+
+--
+
+Authenticity may be present in the following ways:
+
+- the language in the test is as natural as possible
+
+- items are contextualized rather than isolated
+
+- topics are meaningful (relevant, interesting) for the learner
+
+- some thematic organization to items is provided, such as a story line or episode
+
+- tasks represent, or closely approximate, real-world tasks
+
+---
+# Principals of Language Assessment
+
+- **Washback**: the effect of testing on teaching and learning
+
+--
+
+- how students prepare for the test
+
+- classroom instruction to prepare for the test
+
+---
+# To design a classroom language test:
+
+- What is the purpose of the test?
+
+--
+
+- What are the objectives of the test? 
+
+--
+
+- How will the test specifications reflect both the purpose and the objectives?
+
+--
+
+- How will the test tasks be selected and the separate items be arranged?
+
+--
+
+- WHat kind of scoring, grading, and/or feedback is expected?
+---
+class: center, middle
+
+# IPAs 
+
+--
+
+(not the beer)
+
+---
+class: middle, center 
+
+"Integrated Performance Assessment is a classroom-based performance assessment model developed by ACTFL that can be used for evaluating student's communication skills in the three modes of communication (Interpretive, Presentational, Interpersonal) identified in the World-Readiness Standards for Learning Languages (2015). The World-Readiness Standards incorporate the Standards for Foreign Language Learning: Preparing for the 21st Century (1996), and Standards for Foreign Language Learning in the 21st Century (2006)."
+
+--
+
+Using a Backward Design approach, these IPA units begin with Goals of Instruction for the unit, and the final Performance Assessment. The unit template then shows how the 5 Cs of the Standards are integrated. The language functions, priority vocabulary, and sample learning activities students need to practice are also included.
+
+---
+# Characteristics of IPA
+
+--
+
+- **Authentic**: Reflect tasks that individuals do in the world outside the classroom
+
+--
+
+- **Performance-based**: Reflect how students *use* the language and cultural knoweldge in the communicative tasks
+
+--
+
+- **Based on the 3 modes of communication**: Interpretive, Interpersonal, Presentational
+
+--
+
+- **Blend with classroom instruction and experiences**: Teaching to the test (in a positive sense)
+
+---
+background-image:  url("libs/img/characteristics.png")
+background-size: contain
+
+---
+class: center, middle
+
+# Examples
+
+---
+background-image:  url("libs/img/samples.png")
+background-size: contain
+
+---
+background-image:  url("libs/img/prep1.png")
+background-size: contain
+
+---
+background-image:  url("libs/img/prep2.png")
+background-size: contain
+
+---
+class: center, middle, inverse
 
 # Descanso
 
 ---
-class: middle, center, inverse
+class: center, middle
 
-# Parte 2: Language Ideologies
-
----
-background-image:  url("libs/img/hs.png")
-background-size: contain
-
-
----
----
-class: center, middle 
-
-# Actitudes | Identidad | Accentos | etc
-
+# Creamos un IPA
 
 ---
 class: center, middle
 
-# Language and Culture 
-
-### Claire Kramsch
-
----
-# Preguntas 
-
-- ¿Cómo definimos nuestras identidades culturales?
-
-- Según la lectura, ¿qué es "language crossing"?
-
-- Según la lectura, ¿qué es un "act of identity"?
-
-- Habla de la importancia de derechos lingüisticos y del impacto del imperalismo lingüístico 
+# Lesson planning
 
