@@ -1,0 +1,82 @@
+---
+title: ""
+subtitle: "Demo Lesson"
+author: "Nicole Rodríguez"
+institute: ""
+date: "2023/2/17 (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    css: [rutgers, rutgers-fonts]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: 16:9
+      link-citations: yes
+---
+# ¿Quién soy yo?
+
+--
+
+- NJ/Galicia
+
+--
+
+- NYM/Celta de Vigo
+
+--
+
+- Viajo mucho
+
+---
+# Nuestro plan 
+
+- Ayudar a futuros estudiantes 
+
+--
+
+- Leer ???
+
+
+---
+class: center, middle
+
+# Repasamos
+
+---
+
+**insert infographic here**
+
+---
+
+
+**insert useful vocab here**
+
+---
+class: center, middle
+
+# Los mandatos 
+
+---
+
+# review grammar here
+
+---
+
+Reglas de la clase
+
+---
+
+University help
+
+---
+class: center, middle
+
+# Para salir...
+
+---
+
+
+background-image: url("libs/img/exitticket.png")
+background-size: contain
