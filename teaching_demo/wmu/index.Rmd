@@ -1,9 +1,9 @@
 ---
-title: ""
+title: "Ayudamos a futuros estudiantes"
 subtitle: "Demo Lesson"
 author: "Nicole Rodríguez"
 institute: ""
-date: "2023/2/17 (updated: `r Sys.Date()`)"
+date: "2023/2/20 (updated: `r Sys.Date()`)"
 output:
   xaringan::moon_reader:
     css: [rutgers, rutgers-fonts]
@@ -36,47 +36,154 @@ output:
 
 --
 
-- Leer ???
+- Leer 
 
 
 ---
 class: center, middle
 
-# Repasamos
+# Para empezar 
+
+--
+
+### Creamos una lista de 2-3 consejos para estudiantes de WMU
 
 ---
 
-**insert infographic here**
+background-image: url("libs/img/info1.png")
+background-size: contain
 
 ---
 
+background-image: url("libs/img/info2.png")
+background-size: contain
 
-**insert useful vocab here**
+---
+
+background-image: url("libs/img/info3.png")
+background-size: contain
+
+---
+
+background-image: url("libs/img/info4.png")
+background-size: contain
 
 ---
 class: center, middle
 
 # Los mandatos 
 
----
+--
 
-# review grammar here
-
----
-
-Reglas de la clase
+# Mandatos informales
 
 ---
+# Los Mandatos se usan para decirle a otra person que debe hacer.
+### Como formamos los mandatos informales 
 
-University help
+Usamos la tercera persona singular forma del verbo en el presente para decir un mandato informal
+
+|                | Afirmativo |	Negativo  	 |
+| -------------- | ---------- |	------------ |
+| firmar         | firma      | No firmes	   |
+| aprender  	   | aprende    |	No aprendas	 |
+| escribir    	 | escribe 	  | No escribas	 |
+
+**Aprende** esto para la clase.
+**Escribe** la tarea. 
+
+---
+# Mandatos informales... irregulares
+
+<div align="center">
+ <img width="400" src="./libs/img/vin.png">
+
+
+
+
+- Vin Disiel has ten weapons
+- Ven di sal haz ten ve pon
+- venir decir, salir, hacer, tener, ir, poner
+
 
 ---
 class: center, middle
 
-# Para salir...
+# Ayudamos a futuros estudiantes
 
 ---
 
-
-background-image: url("libs/img/exitticket.png")
+background-image: url("libs/img/bronco.png")
 background-size: contain
+
+---
+class: center, middle
+
+# Padlet 
+
+https://padlet.com/nmrodriguez1994/consejos-reglas-etc-ygpg8wffybeh7ew1
+
+---
+background-image: url("libs/img/qr.png")
+background-size: contain
+
+###### https://bit.ly/wmu0220 
+
+---
+
+class: center, middle, inverse 
+
+# Los mandatos
+
+---
+# Los Mandatos se usan para decirle a otra person que debe hacer. 
+
+- Usamos mandatos formales con Usted o Ustedes 
+
+- Para formar mandatos formales: quitamos la -o de la forma "yo" en el presente y añadimos **-e(n)** para verbos  **-ar**  y **-a(n)** para verbos **-er** y **-ir**
+
+--
+
+| -------------- | USTED |	USTEDES	 |
+| -------------- | ----- |	-------	 |
+| firmar → firmø | firme | firmen	   |
+| leer → leø	   | lea   |	lean	   |
+| abrir → abrø	 | abra	 | abran	   |
+
+
+**Firme** aquí, por favor.	
+
+**Lean** los informes antes de la reunión.	
+
+**Abra** la sesión a las dos en punto.	
+
+---
+# Los mandatos con verbos irregulares 
+
+| ---------------- | USTED  |	USTEDES	 |
+| ---------------- | ------ |	-------	 |
+| pensar → piensø  | piense | piensen	 |
+| dormir → duermø	 | duerma |	duerman	 |
+| repetir → repitø | repita	| repitan  |
+| poner → pongø	   | ponga	| pongan   |
+
+--
+
+No hace falta usar "usted" o "ustedes con el mandato, es opcional. Pero si quieres, tiene que ir después del verbo: 
+
+- **Pase/Pase* usted*.	
+
+El "no" para formar un mandato negativo siempre va primero. 
+
+- **No** salga ahora.
+
+---
+class: center, middle
+
+
+# Reglas de la clase
+
+
+--
+
+https://bit.ly/wmu0220
