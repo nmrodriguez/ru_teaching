@@ -1,0 +1,46 @@
+---
+title: "Semana 9"
+subtitle: "TBLT | content based instruction | gamification"
+author: "Dr. Nicole Rodríguez"
+institute: "Rutgers University"
+date: "2022/12/30 (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    css: [rutgers, rutgers-fonts]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: 16:9
+      link-citations: yes
+---
+class: middle, center, inverse
+
+# Parte 1: TBLT
+
+---
+class: center, middle, inverse
+
+# Parte 2: Content Based Instruction
+
+---
+class: center, middle, inverse
+
+# Descanso 
+
+---
+class: center, middle, inverse
+
+# Gamification
+
+---
+class: center, middle
+
+# Unit | Lesson planning
+
+---
+# Reflexión
+
+- Something about alternative modes of instruction and what their preference is/what they would add to their unit/lessons if they could change something 
+

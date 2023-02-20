@@ -289,3 +289,8 @@ class: center, middle
 
 # Lesson planning
 
+---
+# Reflexión 
+
+- Evaluad vuestros examenes universitarios. ¿Creéis que valen la pena? ¿Qué haríais en vez de midterms/finals?
+

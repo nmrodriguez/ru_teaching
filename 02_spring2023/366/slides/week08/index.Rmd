@@ -1,0 +1,93 @@
+---
+title: "Semana 8"
+subtitle: "Community Engagement | Service Learning"
+author: "Dr. Nicole Rodríguez"
+institute: "Rutgers University"
+date: "2022/12/30 (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    css: [rutgers, rutgers-fonts]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: 16:9
+      link-citations: yes
+---
+class: middle, center, inverse
+
+# Parte 1: Competencia cultural
+
+---
+something here about the readings
+
+---
+class: center, middle
+
+"Paul Simon, in his provocative book *The Tounge-Tied American* (1980), recounts the story of a Georgia school board member who approached Genelle Morain of the University of Georgia with the question: 'Why should a student who will never leave Macon, Georgia, student a foreign language?" Her reply was succinct but profound: 'That's *why* he should study another language'." 
+
+¿Opiniones/quejas/ideas?
+
+
+---
+class: center, middle
+
+"This focus on the importance of cultural learning is rooted in at least two widely held beliefs among foreign language professionals: (1) that language study is essential component in the curriculum, in part because it can lead to greater cross-cultural understanding, and (2) that language and culture are inseparably intertwined."
+
+---
+class: center, middle
+
+"There is no question that the successful integration of culture and language teaching can contribute significantly to general humanistic knowledge, that language ability and cultural sensitivity can play a vital role in the security, defense, and economic well-being of this country, and that global understanding ought to be a mandatory component of basic education."
+
+
+---
+# Implicit Bias Association Test
+
+
+https://resources.lmu.edu/dei/initiativesprograms/implicitbiasinitiative/whatisimplicitbias/testyourimplicitbias-implicitassociationtestiat/
+
+---
+class: center, middle 
+
+# Language Ideologies | Actitudes | Identidad | Accentos | etc
+
+---
+background-image:  url("libs/img/bilingual.png")
+background-size: contain
+
+---
+class: center, middle
+
+# Language and Culture 
+
+### Claire Kramsch
+
+---
+# Preguntas 
+
+- ¿Cómo definimos nuestras identidades culturales?
+
+- Según la lectura, ¿qué es "language crossing"?
+
+- Según la lectura, ¿qué es un "act of identity"?
+
+- Habla de la importancia de derechos lingüisticos y del impacto del imperalismo lingüístico 
+
+---
+class: center, middle, inverse
+
+# Descanso 
+
+---
+class: center, middle
+
+# Unit | Lesson planning
+
+---
+# Reflexión
+
+- something about identity and culture 
+
+- something about why they chose spanish instead of any other language 
+

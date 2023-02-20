@@ -1,0 +1,40 @@
+---
+title: "Semana 12"
+subtitle: "Textbooks and culturally authentic materials "
+author: "Dr. Nicole Rodríguez"
+institute: "Rutgers University"
+date: "2022/12/30 (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    css: [rutgers, rutgers-fonts]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: 16:9
+      link-citations: yes
+---
+class: middle, center, inverse
+
+# Parte 1: Textbooks and culturally authentic materials
+
+---
+something here about the readings
+
+---
+class: center, middle, inverse
+
+# Descanso 
+
+---
+class: center, middle
+
+# Let's destroy a textbook
+
+---
+# Reflexión
+
+- something about their experience with language textbooks
+
+- how feasible they see scraping them all together and what they would use instead. 

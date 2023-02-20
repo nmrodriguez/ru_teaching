@@ -20,9 +20,14 @@ class: middle, center, inverse
 # Parte 1: Competencia cultural
 
 ---
+something here about the readings
+
+---
 class: center, middle
 
-"Paul Simon, in his provocative book *The Tounge-Tied American* (1980), recounts the story of a Georgia school board member who approached Genelle Morain of the University of Georgia with the question: 'Why should a student who will never leave Macon, Georgia, student a foreign language?" Her reply was succint but profound: 'That's *why* he should study another language'." 
+"Paul Simon, in his provocative book *The Tounge-Tied American* (1980), recounts the story of a Georgia school board member who approached Genelle Morain of the University of Georgia with the question: 'Why should a student who will never leave Macon, Georgia, student a foreign language?" Her reply was succinct but profound: 'That's *why* he should study another language'." 
+
+¿Opiniones/quejas/ideas?
 
 
 ---
@@ -30,6 +35,8 @@ class: center, middle
 
 "This focus on the importance of cultural learning is rooted in at least two widely held beliefs among foreign language professionals: (1) that language study is essential component in the curriculum, in part because it can lead to greater cross-cultural understanding, and (2) that language and culture are inseparably intertwined."
 
+---
+class: center, middle
 
 "There is no question that the successful integration of culture and language teaching can contribute significantly to general humanistic knowledge, that language ability and cultural sensitivity can play a vital role in the security, defense, and economic well-being of this country, and that global understanding ought to be a mandatory component of basic education."
 
@@ -40,28 +47,14 @@ class: center, middle
 
 https://resources.lmu.edu/dei/initiativesprograms/implicitbiasinitiative/whatisimplicitbias/testyourimplicitbias-implicitassociationtestiat/
 
-
----
-class: middle, center, inverse
-
-# Descanso
-
----
-class: middle, center, inverse
-
-# Parte 2: Language Ideologies
-
----
-background-image:  url("libs/img/hs.png")
-background-size: contain
-
-
----
 ---
 class: center, middle 
 
-# Actitudes | Identidad | Accentos | etc
+# Language Ideologies | Actitudes | Identidad | Accentos | etc
 
+---
+background-image:  url("libs/img/bilingual.png")
+background-size: contain
 
 ---
 class: center, middle
@@ -80,4 +73,21 @@ class: center, middle
 - Según la lectura, ¿qué es un "act of identity"?
 
 - Habla de la importancia de derechos lingüisticos y del impacto del imperalismo lingüístico 
+
+---
+class: center, middle, inverse
+
+# Descanso 
+
+---
+class: center, middle
+
+# Unit | Lesson planning
+
+---
+# Reflexión
+
+- something about identity and culture 
+
+- something about why they chose spanish instead of any other language 
 

@@ -1,0 +1,36 @@
+---
+title: "Semana 11"
+subtitle: "Feedback and error correction"
+author: "Dr. Nicole Rodríguez"
+institute: "Rutgers University"
+date: "2022/12/30 (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    css: [rutgers, rutgers-fonts]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: 16:9
+      link-citations: yes
+---
+class: middle, center, inverse
+
+# Parte 1: Feedback and error correction pt. 1
+
+---
+class: center, middle, inverse
+
+# Descanso 
+
+---
+class: center, middle
+
+# Feedback and error correction on unit plans
+
+---
+# Reflexión
+
+- something about a time they felt uncomfortable in the language classroom because of errors 
+

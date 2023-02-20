@@ -17,29 +17,65 @@ output:
 ---
 class: center, middle, inverse
 
-# Parte 1: Teaching Philosophy
+# Parte 1: Technology in the classroom
+
+---
+class: center, middle, inverse
+
+# Parte 2: the future
+
+---
+class: center, middle, inverse
+
+# Descanso
+
+
+---
+class: center, middle, inverse
+
+# Parte 3: Teaching Philosophy
 
 ---
 # The Teaching Portfolio
 
 "A teaching portfolio is an important key element for the professional development.  It is extremely beneficial in preparation for the job market and in determining teaching awards. It is extremely important to have one always updated and ready for submission."
 
+--
+
+- Some job applications will ask for this 
+
+- It'll include a teaching philosophy statement, sample lesson/unit plans, teaching reviews, class observations, letters of recommendation, etc. 
+
 ---
 # The Teaching Philosophy
 
 - Defines you as a teacher
 
+--
+
 - Explains the manner that you apply and/or combine teaching techniques 
+
+--
 
 - States your experience
 
+--
+
 - Explains your beliefs
+
+--
 
 - Describes future projects
 
+--
+
 - Demonstrates knowledge on the use of technology
 
+--
+
 - Is adaptable and flexible
+
+--
 
 - Is your presentation card
 
@@ -87,17 +123,35 @@ b. Communicative approach. I believe it is important to offer the students the w
 ---
 # Sample: Standards and beliefs
 
-"
+"My approach to teaching is based on my own experience as a student and an instructor. I have always believed that students learn best when being part of an enviornment where they can apply their own interests and personality, and where they feel that they can learn materials and skills which they may be able to apply to their own life. Therefore, I firmly believe that students gain a better understanding of contents when these are presented in a way that allows them to apply these contents to their own life, and in a sense, to make the classroom their own. To a certain extent, this approach has been confirmed by ACTFl Standards for the Teaching of Foreign Langauges, which stress the areas of Communication, Cultures, Connections, Comparisons, and Communities. My approach, although taking the ideas suggested by the ACTFL standards into account, goes further in that it is an attempt to allow students to bring their own personal interests and concerns to the classroom. Thus, at the beginning of the semester, I always collect information from my students, to gather a sense of what it is that they are interested in, and what it is that they want to get out of the classroom. This has always proved an effective way to start a communication process with my students that allows me to program contents and activgities taking into account not just what they syllabus states but also what my students would like to learn."
 
 ---
-class: center, middle, inverse
+# Sample: The role of technology
 
-# Descanso
-
----
-class: center, middle, inverse
-
-# Parte 2: Technology
+"I am also a big proponent of using internet technologies in my teaching because they can facilitate meaningful interaction between learners and with authentic materials. I have found that activities using online communication tools can lead to very high amounts of language production. In these activities, learns seem to relax more than in face-to-face situations, thus freeing themselves to focus on conveying and negotiating meaning. Videos from YouTube represent an engaging way to bring the cultures associated with the target langauge into the classroom. Additionally, television commercials for internationally known products and dubbed clips from American movies and TV shows enable students to view familiar content in the less familiar language."
 
 ---
+
+3 paragraph format
+Throughout my experience as a Spanish language instructor, I have learned that the acquisition of language skills best occurs when the professor performs as a facilitator/mediator to the students instead of being the central figure in the course.  The students themselves, and not the professor, must be the protagonists of the language learning process.  This idea implies that the professor must carefully consider the dynamics of any given group of students in order to be able to challenge them and to achieve the goals of the course.  
+My ultimate goal as an instructor is that students become aware of tools that they need in order to develop all skills to communicate and understand the Spanish language in different contexts.  To meet the challenge that English speaking students face when learning Spanish I have used a myriad of techniques, views, and styles according to the style of the Program in which I teach and the needs of the students.  I have used the total physical response (TPR), the task-based, and the communicative approaches.  TPR facilitates the development of oral and listening skills from very early in the process of language acquisition.  The communicative approach has proven useful in exposing students to communicative functions as well as to making them aware of the importance of cultural differences, as they appear in different contexts, from informal to very formal.  The task-based approach uses the student’s several skills to understand grammar and to increment their vocabulary.  The input/output approach has giving me very rewarding production of language in context. In my teaching I seek to creatively combine these approaches as well as develop new techniques that address the demands of a Program and the needs of students.
+My innovations in teaching often involve multimedia presentations.  For me technology is a fundamental tool in learning and teaching language.  It has proven to be efficient while working with different teaching approaches.  Technology exposes students to an interactive form of communication that facilitates the development of their skills.  It provides a setting where they practice their language skills and learn about culture in a relaxed atmosphere.  When integrated in the course appropriately, technology helps to make the teaching experience more enjoyable and efficient.  I like to share ideas about teaching with others and always look forward to learn and employ methods and techniques that facilitate the acquisition of language.  The needs of the students and the structure of the Program in which I teach provide the criteria for experimentation and innovation. I have learnt that courses in a Language Program are tied with each other and that part of the instructors’ task is to help maintain the rhythm and balance of the whole Program.  I love teaching language and look forward to continue doing these tasks in the years ahead.
+
+---
+class: center, middle
+
+# Time to write one
+
+---
+# Para entregar el 4 de mayo a las 11:59pm
+
+- Teaching portfolio
+
+  - Perfil de aprendizaje (final draft)
+  
+  - Teaching philosophy
+  
+  - Reseña de un libro de texto
+  
+  - Partner lesson plans & unit plan
 

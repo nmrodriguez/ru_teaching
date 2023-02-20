@@ -1,0 +1,49 @@
+---
+title: "Semana 10"
+subtitle: "Literacy Development"
+author: "Dr. Nicole Rodríguez"
+institute: "Rutgers University"
+date: "2022/12/30 (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    css: [rutgers, rutgers-fonts]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: 16:9
+      link-citations: yes
+---
+class: middle, center, inverse
+
+# Parte 1: Literacy development 
+
+---
+Do a jigsaw with readings because that's literally the easiest option. 
+
+---
+mini lecture here 
+
+---
+class: center, middle, inverse
+
+# Descanso 
+
+---
+class: center, middle
+
+# Practical stuff
+
+---
+
+**bring in children's books and also young adult books that are pretty well known and have them figure out activities | plan a week of lessons based on this 
+
+** look at noemi's activities from the seminar class and have them do that. 
+---
+# Reflexión
+
+- Think about your literacy skills in your second language. How often do you read in your second language? How have you actively tried to improve them? 
+
+- What would you do as a teacher to promote and help your students' literacy development. 
+
