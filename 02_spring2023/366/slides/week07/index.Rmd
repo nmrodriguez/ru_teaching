@@ -1,6 +1,6 @@
 ---
 title: "Semana 7"
-subtitle: "Competencia cultural y Language ideologies"
+subtitle: "Competencia cultural y Language ideologies/Family language policies"
 author: "Dr. Nicole Rodríguez"
 institute: "Rutgers University"
 date: "2022/12/30 (updated: `r Sys.Date()`)"
@@ -20,7 +20,22 @@ class: middle, center, inverse
 # Parte 1: Competencia cultural
 
 ---
-something here about the readings
+class: center, middle
+
+# Jigsaw
+
+---
+# Articles
+
+- Building intercultural competence in the language classroom (Moeller & Nugent, 2014)
+
+- Bilingual Educación in the Home: Everyday Mexican Immigrant Family Educational Practices (Valdez, 2015)
+
+- Family Language Policy (King, Fogle, & Logan-Terry, 2008)
+
+- Older Sibling Influence on the Language Enviornment and Language Development of Toddlers in Bilingual Homes (Bridges & Hoff, 2014)
+
+- Bilingües y bilingüismo en los Estados Unidos: la política lingüística en una época antiinmigrante (Valdés, 1995)
 
 ---
 class: center, middle
@@ -40,22 +55,6 @@ class: center, middle
 
 "There is no question that the successful integration of culture and language teaching can contribute significantly to general humanistic knowledge, that language ability and cultural sensitivity can play a vital role in the security, defense, and economic well-being of this country, and that global understanding ought to be a mandatory component of basic education."
 
-
----
-# Implicit Bias Association Test
-
-
-https://resources.lmu.edu/dei/initiativesprograms/implicitbiasinitiative/whatisimplicitbias/testyourimplicitbias-implicitassociationtestiat/
-
----
-class: center, middle 
-
-# Language Ideologies | Actitudes | Identidad | Accentos | etc
-
----
-background-image:  url("libs/img/bilingual.png")
-background-size: contain
-
 ---
 class: center, middle
 
@@ -72,12 +71,90 @@ class: center, middle
 
 - Según la lectura, ¿qué es un "act of identity"?
 
-- Habla de la importancia de derechos lingüisticos y del impacto del imperalismo lingüístico 
+- Habla de la importancia de derechos lingüisticos y del impacto del imperalismo lingüístico
 
 ---
-class: center, middle, inverse
+class: center, middle 
 
-# Descanso 
+# Language Ideologies | Actitudes | Identidad | Accentos | etc
+
+---
+# Implicit Bias Association Test
+
+
+https://resources.lmu.edu/dei/initiativesprograms/implicitbiasinitiative/whatisimplicitbias/testyourimplicitbias-implicitassociationtestiat/
+
+---
+class: center, middle
+
+# Bilingües y bilingüismo en los Estados Unidos: la política lingüística en una época antiinmigrante (Valdés, 1995)
+
+---
+# Cosas importantes 
+
+- "Pese a las aservaciones emitidas por el movimiento "English only", varios académicos han establecido de manera clara que, quienes actualmente migran hacia los Estados Unidos, están adquiriendo el inglés y alejándose de sus lenguas étnicas"
+
+--
+
+- "U.S. English e English First han promivido agresivamente la aprobación de una legislación que instituría al inglés como la "lengua oficial" de los Estados Unidos y prohbiría el uso de otras lenguas en una variedad de contextos "públicos" y "oficiales""
+
+---
+# Cosas importantes 
+
+- bilingües por elección vs bilingües por circunstancia 
+
+--
+
+- "El hecho es que en los Estados-nación monolingües los problemas no terminan cuando las poblaciones minoritarias aprenden la lengua social."
+
+
+---
+# Cosas importantes 
+
+- El requisito de usar dos lenguas en el terreno laboral
+
+--
+
+- "La pregunta de si un empleador tiene derecho, y hasta qué punto, de requerir que un empleade use sus dos lenguas en el trabajo es de particular importancia para los individuos bilingües
+
+--
+
+- "El impacto potencial de la discriminación "justificable" por acento es enorme en los Estados Unidos y en cualquier otro país en el que se acepte como norma la variedad de prestigio de la lengua nacional"
+
+---
+# Cosas importantes 
+
+- "En el caso de los latinos en los Estados Unidos, dichas políticas seguirán produciendo discriminación labor y oprutnidades educativas desiguales"
+
+
+---
+# Language discrimination 
+
+.pull-right[
+- In the U.S.
+
+  - AAVE
+
+  - "English Only"
+
+  - ASL
+  
+  - Prescriptivism vs Descriptivism 
+]
+
+.pull-left[
+- In the Spanish-speaking world
+
+  - Franco-era policies
+  
+  - Indigenous language erasure / lack of support in Latin America
+]
+  
+
+---
+background-image:  url("libs/img/bilingual.png")
+background-size: contain
+
 
 ---
 class: center, middle
@@ -87,7 +164,7 @@ class: center, middle
 ---
 # Reflexión
 
-- something about identity and culture 
+- ¿Porqué dicidieron estudiar el español? ¿Cómo influye la identidad/la cultura/el prestigio el acento que quieren usar?
 
-- something about why they chose spanish instead of any other language 
+- ¿Han experimentado (o visto) algún tipo de discriminación lingüística en el aula o otro lugar? ¿Qué pasó?
 
