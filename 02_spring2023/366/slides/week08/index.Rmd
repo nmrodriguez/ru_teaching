@@ -15,79 +15,164 @@ output:
       ratio: 16:9
       link-citations: yes
 ---
+
+background-image:  url("libs/img/twilight.png")
+background-size: contain
+
+---
+background-image:  url("libs/img/kwl.png")
+background-size: contain
+
+---
+background-image:  url("libs/img/tweet.png")
+background-size: contain
+
+---
 class: middle, center, inverse
 
-# Parte 1: Competencia cultural
+# Community Engagement | Service-Learning
 
 ---
-something here about the readings
+class: middle, center
 
----
-class: center, middle
-
-"Paul Simon, in his provocative book *The Tounge-Tied American* (1980), recounts the story of a Georgia school board member who approached Genelle Morain of the University of Georgia with the question: 'Why should a student who will never leave Macon, Georgia, student a foreign language?" Her reply was succinct but profound: 'That's *why* he should study another language'." 
-
-¿Opiniones/quejas/ideas?
+# ¿Qué es "service-learning"?
 
 
 ---
-class: center, middle
-
-"This focus on the importance of cultural learning is rooted in at least two widely held beliefs among foreign language professionals: (1) that language study is essential component in the curriculum, in part because it can lead to greater cross-cultural understanding, and (2) that language and culture are inseparably intertwined."
-
----
-class: center, middle
-
-"There is no question that the successful integration of culture and language teaching can contribute significantly to general humanistic knowledge, that language ability and cultural sensitivity can play a vital role in the security, defense, and economic well-being of this country, and that global understanding ought to be a mandatory component of basic education."
-
+background-image:  url("libs/img/servicelearningdiagram.png")
+background-size: contain
 
 ---
-# Implicit Bias Association Test
+# Service-learning
 
+- A union of community service and formal learning
 
-https://resources.lmu.edu/dei/initiativesprograms/implicitbiasinitiative/whatisimplicitbias/testyourimplicitbias-implicitassociationtestiat/
+- Involves getting students going out into their communities and using what they learn in class, to help people, and then bringing what they learn in their community service back into the classroom
+
+--
+
+- Service with learning objectives and learning with service objectives
 
 ---
-class: center, middle 
+# Service-learning 
 
-# Language Ideologies | Actitudes | Identidad | Accentos | etc
+- Young adult learners (especially at the university level) also need "the development of humane values"
+
+- "Foremost among the purposes (of higher education) is that of giving young adults the skills and breadth of knowledge to think deeply about the structures of their society and to appropriate values which must govern their personal and professional lives (Berry and Chisolm, 1999)
+
+- "Preparing the next generation for a lifelong commitment to productive citizenship is the most important challenge facing educators and communities at the local, regional, national, and global levels" (Berry and Chisolm, 1999)
+
 
 ---
-background-image:  url("libs/img/bilingual.png")
+background-image:  url("libs/img/types.png")
+background-size: contain
+---
+
+# Service-learning in the Language Classroom
+
+- To learn a language well, learners need meaningful contexts
+
+- "Wherever possible, students should be placed in context-rich situations." - Latulippe (1999)
+
+--
+
+- "Facts and skills that are taught in isolation and not connected to something meaningful cannot be remembered without considerable practice and rehearsal... Second language classroom activities that are meaningful create an ideal learning opportunity for second language students to learn more information in a short time, with less effort." - Christison (1999)
+
+---
+# Service-learning in the Language Classroom
+
+- Service-learning meets the two learner needs of (1) providing meaningful contexts and (2) draws out and cultivates humane values
+
+- Fosters students' personal growth 
+
+---
+# Service-learning in the Language Classroom
+
+- **Example**:
+
+- Sacred Heart University's ESL curriculum has been using service-learning since 2000
+
+- Students go to a local soup kitchen, elementary school, a tutoring agency, and a retirement community, a Habitat for Humanity construction project, or anything along those lines once a week
+
+- In the classroom, students can discuss their feelings, thoughts, experiences, and observations from their service/work
+
+- Their language tasks aren't sterile, isolated, or tedious, they are learning about and expressing their thoughts and ideas on issues of importance and personal relevance
+
+---
+background-image:  url("libs/img/learning.png")
+background-size: contain
+
+---
+background-image:  url("libs/img/model.png")
+background-size: contain
+
+---
+# Service-learning in the Language Classroom
+
+- **Tips on how to set this up from Sacred Heart University**:
+
+.pull-left[
+- Establish and develop relationships with community service agencies near you
+
+- Make sure the service is really service
+
+- Spend 3-4 consecutive weeks at the same worksite (build rapport)
+
+- Provide meaningful language contexts (give students personal interactions!)
+
+- Model the kind of involvement you want and expect
+
+]
+
+.pull-right[
+
+- Challenge your students to take initiatives 
+
+- Pair quiet students with more outgoing ones
+
+- Have students keep a journal for taking notes on their experiences and reflections
+
+- Make sure you bring service back into the classroom
+
+- Be patient with your students and with the service-learning developments
+
+]
+
+
+---
+background-image:  url("libs/img/volunteer.png")
+background-size: contain
+
+---
+
+background-image:  url("libs/img/servicelearning.png")
 background-size: contain
 
 ---
 class: center, middle
 
-# Language and Culture 
-
-### Claire Kramsch
-
----
-# Preguntas 
-
-- ¿Cómo definimos nuestras identidades culturales?
-
-- Según la lectura, ¿qué es "language crossing"?
-
-- Según la lectura, ¿qué es un "act of identity"?
-
-- Habla de la importancia de derechos lingüisticos y del impacto del imperalismo lingüístico 
-
----
-class: center, middle, inverse
-
-# Descanso 
+# Planemos 
 
 ---
 class: center, middle
 
-# Unit | Lesson planning
+ **Community Issue/Problem** ->  **Who is affected by the issue?** -> **What is being done to help or to address the problem?** 
+
+---
+class: center, middle, inverse
+
+# Descanso
+
+---
+class: center, middle, inverse
+
+# Unit | Lesson Planning
 
 ---
 # Reflexión
 
-- something about identity and culture 
+- Describe tu experiencia de servicio comunitario
 
-- something about why they chose spanish instead of any other language 
+- ¿Cuáles son las ventajas de involucrarse en la comunidad como "pre-service teachers"?
 
+- Piensa en tu vida universitaria (y también en la escuela secundaria), ¿te hubieras gustado hacer más service-learning? ¿Por qué?
