@@ -19,10 +19,111 @@ class: middle, center, inverse
 
 # Parte 1: TBLT
 
+--
+
+## Task-Based Language Teaching
+
+---
+# Task-Based Language Teaching
+
+- A needs-based approach to content selection
+
+- An emphasis on learning to communicate through interaction in the target language
+
+- The introduction of authentic texts into the learning situation
+
+- The provision of opportunities for learners to focus not only on language but also on the learning process itself
+
+- An enhancement of the learner's own personal experiences as important contributing elements to classroom learning
+
+- The linking of classroom language learning with languages use outside the classroom
+
+---
+# Task-Based Language Teaching
+
+- What is a task?
+
+--
+
+- real-world/target tasks vs pedagogical tasks
+
+- real-world/target tasks: uses of the language in the world beyond the classroom
+
+- pedagogical tasks: those that occur in the classroom
+
+---
+# Target Tasks
+
+Long (1985): "a piece of work undertaken for oneself or for others, freely or for some reward. Thus examples of tasks include painting a fence, dressing a child, filling out a form, buying a pair of shoes, making an airline reservation, borrowing a library book, taking a driving test, typing a letter, weighing a patient, sorting letters, making a hotel reservation, writing a cheque, finding a street destination and helping someone across a road. In other words, by ‘task’ is meant the hundred and one things people do in everyday life, at work, at play and in between."
+
+---
+# Pedagogical task: 
+
+"an activity or action which is carried out as the result of processing or understanding language (i.e. as a response). For example, drawing a map while listening to a tape, listening to an instruction and performing a command may be referred to as tasks. Tasks may or may not involve the production of language. A task usually requires the teacher to specify what will be regarded as successful completion of the task. The use of a variety of different kinds of tasks in language teaching is said to make language teaching more communicative . . . since it provides a purpose for a classroom activity which goes beyond the practice of language for its own sake." - (Richards, et al. 1986)
+
+---
+# Main components of a task:
+
+-  meaning is primary
+
+- learners are not given other people’s meaning to regurgitate
+
+- there is some sort of relationship to comparable real-world activities 
+
+- task completion has some priority
+
+- the assessment of the task is in terms of outcome.
+
+---
+
+# examples
+
 ---
 class: center, middle, inverse
 
 # Parte 2: Content Based Instruction
+
+---
+# Content Based Instruction
+
+- an instructional approach in which non-linguistic content, including subject matter such as social studies or mathematics, is taught to students through the medium of a language that is not their first, so that while they are learning curricular content they are also learning an additional language
+
+  - Math in Spanish
+  
+  - History in Spanish
+  
+---
+# Content Based Instruction 
+
+- Snow, Met, and Genesee (1989):
+  
+  - language development and cognitive development go hand-in-hand
+  
+  - more traditional methods tend to separate language development from general cognitive development, isolating the target language from any substantive content except for the mechanical workings of the language itself
+  
+  - Content based instruction is designed to integrate language and cognitive development
+
+  - Exists on a continuum 
+  
+---
+
+continuum here: that looks like this:  
+such as total and partial immersion, to more language-driven programs, which include language classes either based on thematic units or with frequent use of content for lan- guage practice. Towards the middle of the continuum are program models in which students study one or two subjects in the target language along with a more traditional language class; an example would be the “adjunct” format adopted at the post-secondary level in which students are integrated into a content course offered for native speakers “but sheltered as a group in a separate credit lan- guage course related to the content course” (Burger & Chrétien, 2001, p. 85).
+
+---
+# Examples: 
+
+Vignette from Lapkin & Swain, 1996: Leonard, an 8th-grade French immersion teacher, presented a combined science and language arts lesson on the greenhouse effect, which was carefully planned yet presented in the guise of a spontaneous class discussion. He adopted a multifaceted approach to lexical instruction, drawing attention to phonological, grammatical, syntactic, sociolinguistic, and discourse-related aspects of vocabulary, in addition to meaning. His strategies included repetition, use of multiple synonyms in their characteristic syntactic frames, and revisiting words in a variety of contexts and in different parts of the lesson.
+
+---
+# Examples: 
+
+Vignette from Day & Shapson, 1996: Claudette, a 7th-grade French immersion teacher created a language-rich science classroom that became a veritable arena of communication. Her students engaged in both “doing” science and collaboratively talking about it. Students were encouraged to speculate, justify, and be comfortable with the view that there might be “no right answer” to some questions, even though the teacher had clear learning objectives and structured her classes accordingly. Many opportunities for students to produce the second language and to communicate with one another arose inherently out of what was being learned, fusing language and science “into a unified whole” (p. 55) and enabling students to use a wide variety of language functions and structures.
+
+---
+# Examples: 
+
+Vignette from Lyster, 1998: Rachelle, a 4th-grade French immersion teacher, drew attention to rel- evant language features as she interacted with students during a science lesson about mammals and their natural defenses against predators. During these lively discussions, she maintained a central focus on meaning yet succeeded in eliciting synonyms, antonyms, homophones, more precise terms, words with similar structural properties, as well as correct grammatical gender, spelling, and pro- nunciation. She frequently used prompts that led students to experiment with language in creative ways, and also led students along a continuum from hearing and using general all-purpose verbs to more specific ones.
 
 ---
 class: center, middle, inverse
@@ -33,6 +134,12 @@ class: center, middle, inverse
 class: center, middle, inverse
 
 # Gamification
+
+
+---
+class: center, middle
+
+# Games 
 
 ---
 class: center, middle
