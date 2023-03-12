@@ -75,8 +75,28 @@ Long (1985): "a piece of work undertaken for oneself or for others, freely or fo
 - the assessment of the task is in terms of outcome.
 
 ---
+# ¿Cómo planeamos una actividad TBLT?
 
-# examples
+- Start with a pre-task activity
+
+- Follow the actual task cycle
+
+- Classroom work ends with post-task review
+
+- Relevant homework assignment
+
+---
+# Ejemplos
+
+- Road trip
+
+- Business Mixer
+
+- First day of class
+
+- Farewell party
+
+- Department of tourism
 
 ---
 class: center, middle, inverse
@@ -105,10 +125,6 @@ class: center, middle, inverse
 
   - Exists on a continuum 
   
----
-
-continuum here: that looks like this:  
-such as total and partial immersion, to more language-driven programs, which include language classes either based on thematic units or with frequent use of content for lan- guage practice. Towards the middle of the continuum are program models in which students study one or two subjects in the target language along with a more traditional language class; an example would be the “adjunct” format adopted at the post-secondary level in which students are integrated into a content course offered for native speakers “but sheltered as a group in a separate credit lan- guage course related to the content course” (Burger & Chrétien, 2001, p. 85).
 
 ---
 # Examples: 
@@ -128,18 +144,66 @@ Vignette from Lyster, 1998: Rachelle, a 4th-grade French immersion teacher, drew
 ---
 class: center, middle, inverse
 
-# Descanso 
-
----
-class: center, middle, inverse
-
 # Gamification
 
+---
+# ¿Qué es?
+
+- Gamification is relatively a new term often referred to the use of game elements in non-game situations to create enjoyable, fun, and motivating learning experiences for learners 
+
+- The use of games in general and gamification in particular has been considered to be one of the most prominent instructional method to motivate students and increase their engagement and motivation during learning processes (see Jackson & McNamara, 2013; Millis, Forsyth, Wallace, Graesser, & Timmins, 2017; Noroozi, McAlister, & Mulder, 2016; Shaffer, 2007). 
+
+
+---
+# Ventajas (según Veljkovia Michos, 2017)
+
+
+-  Modifies the mood within the classroom
+
+- Increases learners’ feeling of happiness
+
+-  Provides breaks from learner’s fatigue
+
+- Increases motivation and improve attention
+
+- Increases student’s engagement in the classroom
+activities
+
+- Stimulates a goal oriented activity
+
+- Makes learning fun
+
+
+---
+# Ejemplos
+
+- Kahoot
+
+- Quizlet
+
+- Duolingo
+
+--
+
+- Charades
+
+- Bingo
+
+- Battleship
+
+- Go Fish
+
+- etc.
 
 ---
 class: center, middle
 
 # Games 
+
+---
+class: center, middle, inverse
+
+# Descanso
 
 ---
 class: center, middle
@@ -149,5 +213,5 @@ class: center, middle
 ---
 # Reflexión
 
-- Something about alternative modes of instruction and what their preference is/what they would add to their unit/lessons if they could change something 
+- Pensad en vuestros cursos de español en la secundaria/en esta universidad. ¿Hubo ejemplos o instancias de TBLT, content-based instruction, o gamification? Si sí, describidlos, si no, ¿creéis que sería diferente tu experencia (mejor/más divertida/??) con el uso de estos métodos?
 
