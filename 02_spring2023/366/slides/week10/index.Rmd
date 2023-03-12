@@ -1,6 +1,6 @@
 ---
 title: "Semana 10"
-subtitle: "Literacy Development"
+subtitle: "Literacy Development & Writing "
 author: "Dr. Nicole Rodríguez"
 institute: "Rutgers University"
 date: "2022/12/30 (updated: `r Sys.Date()`)"
@@ -20,10 +20,254 @@ class: middle, center, inverse
 # Parte 1: Literacy development 
 
 ---
-Do a jigsaw with readings because that's literally the easiest option. 
+
+# Literacy Development
+
+- A veces es un poco difícil justificar la inclusión de literatura en el aula 
 
 ---
-mini lecture here 
+background-image:  url("libs/img/florida.png")
+background-size: contain
+---
+# Literacy Development
+
+- A veces es un poco difícil justificar la inclusión de literatura en el aula 
+
+- Realmente no concuerda con "real life" contextos
+
+  - es bastante abstracto (historically, geographically, socially, culturally, linguistically, etc)
+  
+- La pregunta es: 
+  
+  - ¿Qué hacer con la literatura? (o... ¿why do anything with it at all...?)
+
+---
+# Literacy Development
+
+## Algunos beneficios de la enseñanza de la literatura 
+
+
+.pull-left[
+- Cultural enrichment
+
+- Linguistic model
+
+- Mental training
+
+- Extension of linguistic competence
+
+- Authenticity
+
+]
+
+.pull-right[
+
+- Memorability
+
+- Rhythmic resource
+
+- Motivating material
+
+-Open to interpretation
+
+- Convenience
+]
+---
+class: center, middle 
+
+# Picking up word meanings through reading is ten times faster than intensive vocabulary instruction.” – Stephen Krashen
+
+--
+
+- Reading is fundamental for vocab acquisition 
+
+---
+
+
+# Como incorporar la literatura en el aula
+
+- Usar cuentos conocidos/famosos
+
+  - Pretérito vs imperfecto: Ricitos de oro y los tres osos
+
+- Hacer actividades antes de leer 
+  
+  - Vocabulario / contexto / etc.
+  
+- NewsELA: https://newsela.com/ 
+
+  - Lexile levels
+  
+- Preguntas de comprensión vs de discusión 
+
+---
+# How to select the right text
+
+- Is the text an appropriate reading level for students? 
+
+- Will the text capture the students' interest?
+
+- Do students need prior/background knowledge to comprehend the text?
+
+- Is the text culturally relevant & engaging?
+
+---
+# Ejemplos de textos:
+
+.pull-left[
+- Word clouds
+
+- Comics
+
+- Music lyrics
+
+- Poems
+
+- Train schedules
+
+- Tickets
+
+
+]
+
+.pull-right[
+
+- Infographics
+
+- Memes
+
+- Tweets
+
+- Simple articles
+
+- Fictional stories
+
+- etc.
+]
+
+
+---
+# Qué hacer en clase: 
+
+- Pre Reading
+
+- During Reading
+
+- After Reading
+
+---
+# Qué hacer en clase:
+
+- **Pre Reading**
+
+- During Reading
+
+- After Reading
+
+---
+# Qué hacer en clase: **Pre Reading**
+
+- Build background knowledge
+
+- Become familiar with new vocabulary
+
+- Thought-provoking questions
+
+---
+# Qué hacer en clase: 
+
+- Pre Reading
+
+- **During Reading**
+
+- After Reading
+
+
+---
+# Qué hacer en clase:  **During Reading**
+
+- Demonstrating Understanding while reading/listening (graphic organizer)
+
+- Connections to text
+
+- Making predictions
+
+- Group work
+
+---
+
+background-image:  url("libs/img/reading.png")
+background-size: contain
+
+---
+# Qué hacer en clase: 
+
+- Pre Reading
+
+- During Reading
+
+- **After Reading**
+
+---
+# Qué hacer en clase: **After Reading**
+
+- Visualizing text and retelling
+
+- Comprehension questions
+
+- Demonstrating knowledge (presentational/interpersonal)
+
+---
+class: center, middle
+
+# Algo práctico 
+
+---
+class: center, middle, inverse
+
+# Parte 2: Writing
+
+---
+class: center, middle
+
+# More reading = better writers :)
+
+---
+# Writing Strategies and Writer's workshop
+
+- Writing is a **process** and it will likely take multiple attempts and revisions
+
+- Don't rush the process, allow students to revise, reflect, and refine writing multiple times
+
+- Use self-reflection rubrics to help students self-evaluate and monitor their progress
+
+- Use peer and teacher conferencing to strengthen original writing sample
+
+---
+background-image:  url("libs/img/rubric.png")
+background-size: contain
+
+---
+
+background-image:  url("libs/img/writing.png")
+background-size: contain
+
+
+---
+# Writing: Peer Support
+
+- Station rotation activity 
+
+- Work in small groups to assist one another at each station
+
+---
+background-image:  url("libs/img/rotation.png")
+background-size: contain
+
+---
+class: center, middle
+
+# Storybird
 
 ---
 class: center, middle, inverse
@@ -31,19 +275,14 @@ class: center, middle, inverse
 # Descanso 
 
 ---
-class: center, middle
+class: center, middle, inverse
 
-# Practical stuff
+# Unit/Lesson Planning
 
----
-
-**bring in children's books and also young adult books that are pretty well known and have them figure out activities | plan a week of lessons based on this 
-
-** look at noemi's activities from the seminar class and have them do that. 
 ---
 # Reflexión
 
 - Think about your literacy skills in your second language. How often do you read in your second language? How have you actively tried to improve them? 
 
-- What would you do as a teacher to promote and help your students' literacy development. 
+- What would you do as a teacher to promote and help your students' literacy development?
 
