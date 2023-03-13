@@ -17,10 +17,213 @@ output:
 ---
 class: middle, center, inverse
 
-# Parte 1: Textbooks and culturally authentic materials
+# Textbooks and culturally authentic materials
 
 ---
-something here about the readings
+# Textbooks
+
+- Textbooks are a key component in most language programs
+
+- Sometimes, they're the basis for the only language input students receive and practice in the classroom
+
+- Provide the content of lessons, balance of skills taught, and the kind of language practice students do 
+
+---
+# Advantages and limitations of textbooks
+
+- Provide structure and a syllabus for a program
+
+- Help standardize instruction
+
+- Maintain quality
+
+- Provide a variety of learning resources
+
+- Are efficient
+
+- Can provide effective language models and input
+
+- Can train teachers
+
+- Are visually appealing
+
+---
+# Advantages and limitations of textbooks
+
+- May containt inauthentic language
+
+- May distort content
+
+- May not reflect students' needs
+
+- Can deskill teachers
+
+- Are expensive
+
+---
+# Criteria for textbook evaluation (cunningsworth, 1995)
+
+- They should correspond to learners' needs and should match the aims and objectives of the language-learning program
+
+- Should reflect the uses (present or future) which learners will make of the language. Textbooks should be chosen that will help equip students to use the language effectively for their own purposes
+
+- Should facilitate the learning process, without imposing a rigid method
+
+- Should have a clear role as a support for learning. Like teachers, they mediate between the target language and the learner 
+
+---
+# Criteria for textbook evaluation
+
+- Program factors
+
+- Teacher factors
+
+- Learner factors
+
+- Content factors
+
+- Pedagogical factors 
+
+---
+# Adapting textbooks
+
+- Modifying content 
+
+- Adding or deleting content 
+
+- Reorganizing content
+
+- Addressing omissions
+
+- Modifying tasks
+
+- Extending tasks
+
+---
+# Why monitor the use of materials?
+
+- To document effective ways of using materials 
+
+- To provide feedback on how materials work
+
+- To keep a record of additions, deletions, and supplementary materials teachers may have used with the materials 
+
+- To assist other teachers in using the materials 
+
+---
+# How to monitor
+
+- Observation 
+
+- Feedback sessions
+
+- Written reports
+
+- Reviews
+
+- Students' reviews 
+
+---
+class: center, middle, inverse
+
+# Culturally authentic material 
+
+---
+class: center, middle
+
+# What are culturally authentic materials?
+
+---
+# Culturally Authentic Materials
+
+- Exposure to real language and its use in its own community 
+
+- Appropriate and quality in terms of goals, objectives, learner needs and interests, and "natural" in terms of real life and meaningful communication 
+
+- Authentic texts are materials that are designed for native speakers of the language, not written for language teaching purposes
+
+---
+# Examples
+
+- Newspapers
+
+- Video
+
+- Talks/discussions
+
+- Role play/drmatizations
+
+- 
+
+---
+.pull-left[
+# Advantages of using this:
+
+- Have a positive effect on learner motivation
+
+- Provide authentic cultural information 
+
+- Provide exposure to real language
+
+- Relate more closely to learners' needs
+
+- Support a more creative approach to teaching
+
+]
+
+.pull-right[
+
+# Disadvantages: 
+
+- Contain difficult language 
+
+- Complex language structures and vocab
+
+- Difficult for beginning learners. 
+]
+---
+# Culturally Authentic Materials
+
+- How to do this with beginning/intermediate learners 
+
+- Scaffolding (refers to the support provided for learners to promote acquisition of skills and concepts)
+
+- Follow-up tasks aimed at interpretation
+
+---
+background-image:  url("libs/img/scaffolding.png")
+background-size: contain
+
+---
+# Why use them? 
+
+- Provide real-life examples of language used in everyday situations
+
+- Learner interest
+
+- Serve as a reminder that there is an entire population who use the target language in their everyday lives
+
+- Provide information about the target culture and provide that culture's perspective on an issue or event
+
+---
+# How
+
+- Choose texts that are: context, age, and linguistically appropriate
+
+- Tailor the task to the proficiency level of the student
+
+- Give opportunities to make meaning with a text
+
+- Help learners use background knowledge, contextual cues, and interpretive strategies to construct meaning
+
+- Comprehension tasks
+
+- Not directly translating the text
+
+---
+class: center, middle
+
+# Let's destroy a textbook
 
 ---
 class: center, middle, inverse
@@ -30,11 +233,11 @@ class: center, middle, inverse
 ---
 class: center, middle
 
-# Let's destroy a textbook
+# Textbook review
 
 ---
 # Reflexión
 
-- something about their experience with language textbooks
+- Hablad de vuestra experiencia con libros de texto en vuestros cursos de lengua. 
 
-- how feasible they see scraping them all together and what they would use instead. 
+- ¿Es posible/factible no usar un libro de texto en una clase y crear todos los materiales?
