@@ -1,0 +1,172 @@
+---
+title: "El hogar"
+subtitle: "Demo Lesson"
+author: "Nicole Rodríguez"
+institute: ""
+date: "2023/3/13 (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    css: [rutgers, rutgers-fonts]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: 16:9
+      link-citations: yes
+---
+# ¿Quién soy yo?
+
+--
+
+- NJ/Galicia
+
+--
+
+- NYM/Celta de Vigo
+
+--
+
+- Viajo mucho
+
+---
+# Nuestro plan 
+
+- Hacer un pequeño repaso
+
+- Hablar de casas/viviendas
+
+- Escribir un anuncio
+
+---
+# Repaso
+
+.pull-left[
+### ¿Qué hay en tu dormitorio/apartamento/casa?
+
+- ¿Hay una garaje?
+
+- ¿Hay un baño?
+
+- ¿Hay una lavadora/secadora?
+
+- etc.
+]
+
+.pull-right[
+
+### ¿Qué hay que hacer en tu dormitorio/apartamento/casa?
+
+- ¿Tienes que sacar la basura?
+
+- ¿Tienes que pasar la aspiradora? 
+
+- ¿Tienes que lavar los platos?
+
+- etc.
+]
+
+
+---
+class: center, middle, inverse
+
+# Hablamos de casas/viviendas
+
+---
+class: center, middle
+
+# ¿Qué es una casa?
+
+---
+# 3-38 Su casa
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ersyM081NNo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+---
+classa: center, middle 
+
+# Zillow
+
+## Nuestra casa ideal (según las opciones en esta zona)
+
+--
+
+¿Por qué te gusta la casa? 
+
+Describe la casa 
+
+Compara dos casas
+
+---
+# Escribimos un anuncio
+
+- pg. 131: 3-40 | 3-41 | 3-42 
+
+- Aceptamos un nuevo trabajo en otra ciudad y queremos alquilar nuestro apartamento en Evansville. Tenemos que poner un anuncio en Zillow.
+
+- Antes de escribir: vamos a crear una lista de todas la characterísticas del apartamento que queremos incluir.
+
+---
+# Escribimos un anuncio
+
+- pg. 131: 3-40 | 3-41 | 3-42 
+
+- A escribir (con otra persona): 
+
+.pull-left[
+
+- Ubicación (ciudad, estado, país, calle, etc)
+
+- Tipo de vivienda (casa, apartamento, cuarto)
+
+- Número de habitaciones
+
+- Aparatos en la cocina
+]
+
+.pull-right[
+- Muebles
+
+- Colores
+
+- Precio
+
+- Algo más
+]
+
+---
+# Escribimos un anuncio
+
+- pg. 131: 3-40 | 3-41 | 3-42 
+
+- Ejemplo:
+
+---
+
+background-image: url("libs/img/anuncio.png")
+background-size: contain
+
+---
+# Escribimos un anuncio
+
+- pg. 131: 3-40 | 3-41 | 3-42 
+
+- Donde subir una foto: Padlet 
+
+https://padlet.com/nmrodriguez1994/6mflr7xrf29z1znf 
+
+https://bit.ly/anuncios_usi
+
+
+---
+background-image: url("libs/img/qrcode.png")
+background-size: contain
+
+---
+class: center, middle
+
+# Para salir...
+
+---
+background-image: url("libs/img/exit.png")
+background-size: contain
