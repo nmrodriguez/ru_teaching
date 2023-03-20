@@ -44,7 +44,7 @@ output:
 .pull-left[
 ### ¿Qué hay en tu dormitorio/apartamento/casa?
 
-- ¿Hay una garaje?
+- ¿Hay un garaje?
 
 - ¿Hay un baño?
 
