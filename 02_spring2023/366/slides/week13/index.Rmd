@@ -50,7 +50,7 @@ class: center, middle, inverse
 
 - Pinterest
 
-- 
+
 ---
 class: center, middle
 
@@ -189,11 +189,6 @@ My ultimate goal as an instructor is that students become aware of tools that th
 class: center, middle 
 
 My innovations in teaching often involve multimedia presentations.  For me technology is a fundamental tool in learning and teaching language.  It has proven to be efficient while working with different teaching approaches.  Technology exposes students to an interactive form of communication that facilitates the development of their skills.  It provides a setting where they practice their language skills and learn about culture in a relaxed atmosphere.  When integrated in the course appropriately, technology helps to make the teaching experience more enjoyable and efficient.  I like to share ideas about teaching with others and always look forward to learn and employ methods and techniques that facilitate the acquisition of language.  The needs of the students and the structure of the Program in which I teach provide the criteria for experimentation and innovation. I have learnt that courses in a Language Program are tied with each other and that part of the instructors’ task is to help maintain the rhythm and balance of the whole Program.  I love teaching language and look forward to continue doing these tasks in the years ahead.
-
----
-class: center, middle, inverse
-
-# Descanso
 ---
 class: center, middle
 
