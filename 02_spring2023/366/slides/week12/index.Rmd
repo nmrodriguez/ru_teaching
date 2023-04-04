@@ -151,9 +151,7 @@ class: center, middle
 
 - Talks/discussions
 
-- Role play/drmatizations
 
-- 
 
 ---
 .pull-left[
@@ -234,6 +232,19 @@ class: center, middle, inverse
 class: center, middle
 
 # Textbook review
+
+---
+# Textbook review
+
+- 1 página (¡en español!)
+
+- ¿Para cuáles niveles de español? 
+
+- ¿Qué te gusta? (por lo menos 2 cosas)
+
+- ¿Qué no te gusta? (por lo menos 2 cosas)
+
+- ¿Qué cambiarías?
 
 ---
 # Reflexión
